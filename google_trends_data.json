@@ -1,47 +1,35 @@
 {
-    "timestamp": "2025-03-08 15:30:27",
+    "timestamp": "2025-03-08 16:00:28",
     "trends": {
         "IE": [
             {
                 "title": "ireland vs france",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "liverpool vs southampton",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "six nations",
-                "search_volume": "20K+\n\n600%",
+                "search_volume": "20K+\n\n800%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "nottm forest vs man city",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "james lowe",
-                "search_volume": "2K+\n\n1,000%",
+                "title": "six nations table",
+                "search_volume": "5K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "hantavirus",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "18 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "urgent irish passport warning",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -51,105 +39,117 @@
                 "related_topics": ""
             },
             {
+                "title": "james lowe",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "urgent irish passport warning",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "hantavirus",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "18 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "sam prendergast",
                 "search_volume": "2K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "rugby 6 nations",
-                "search_volume": "1K+\n\n500%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "title": "sports",
+                "search_volume": "2K+\n\n300%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "irish rugby",
-                "search_volume": "2K+\n\n700%",
+                "search_volume": "2K+\n\n900%",
                 "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "man city",
-                "search_volume": "2K+\n\n600%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "six nations table",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "antoine dupont",
-                "search_volume": "500+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "brighton vs fulham",
-                "search_volume": "500+\n\n1,000%",
+                "search_volume": "1K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "sports",
-                "search_volume": "500+\n\n200%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "dan sheehan",
-                "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "bielle biarrey",
-                "search_volume": "200+\n\n1,000%",
-                "started": "40 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "bayern vs vfl bochum",
-                "search_volume": "200+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "ireland rugby today",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "40 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "michael flatley",
-                "search_volume": "200+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "happy international women's day",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "8 hours ago\n\nLasted 8 hr",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "pope francis health vatican news",
+                "title": "liverpool",
+                "search_volume": "2K+\n\n300%",
+                "started": "10 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "dan sheehan",
+                "search_volume": "500+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bayern vs vfl bochum",
+                "search_volume": "500+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "acl injury",
                 "search_volume": "200+\n\n1,000%",
-                "started": "40 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "international women's day",
-                "search_volume": "2K+\n\n400%",
-                "started": "10 hours ago\n\nLasted 10 hr",
+                "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "peter o'mahony",
                 "search_volume": "500+\n\n1,000%",
-                "started": "1 hour ago\n\nLasted 1 hr",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "ireland rugby today",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "pope francis health vatican news",
+                "search_volume": "200+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "rugby ireland",
+                "search_volume": "200+\n\n400%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "jegou",
+                "search_volume": "200+\n\n1,000%",
+                "started": "10 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "international women's day",
+                "search_volume": "5K+\n\n400%",
+                "started": "10 hours ago\n\nLasted 10 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "michael flatley",
+                "search_volume": "200+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
@@ -163,61 +163,67 @@
             {
                 "title": "liverpool vs southampton",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "ireland vs france",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "hantavirus",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "18 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "sidemen",
-                "search_volume": "50K+\n\n700%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "ireland v france 2025",
-                "search_volume": "20K+\n\n600%",
+                "search_volume": "20K+\n\n700%",
                 "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "sidemen",
+                "search_volume": "50K+\n\n800%",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "happy international women's day",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "started": "16 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "crystal palace vs ipswich town",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "hmrc savings tax",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "23 hours ago\ntrending_up\nActive",
+                "started": "24 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "coventry vs stoke city",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "title": "brighton vs fulham",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "crystal palace vs ipswich town",
-                "search_volume": "5K+\n\n1,000%",
+                "title": "six nations table",
+                "search_volume": "10K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "aberdeen vs queen's park",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "bayern vs vfl bochum",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -227,37 +233,67 @@
                 "related_topics": ""
             },
             {
-                "title": "bayern vs vfl bochum",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "brighton vs fulham",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "aberdeen vs queen's park",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "plymouth argyle vs sheffield wednesday",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "liverpool",
+                "search_volume": "20K+\n\n400%",
+                "started": "20 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "derby county vs blackburn rovers",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "coventry vs stoke city",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "sunderland vs cardiff city",
                 "search_volume": "5K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "six nations fixtures",
+                "search_volume": "20K+\n\n50%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "burnley vs luton town",
+                "search_volume": "2K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "watford vs millwall",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "liverpool v southampton",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "derby county vs blackburn rovers",
+                "title": "sheffield united vs preston",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bristol city vs hull city",
                 "search_volume": "2K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
@@ -265,43 +301,7 @@
             {
                 "title": "paapa essiedu",
                 "search_volume": "10K+\n\n600%",
-                "started": "22 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "sheffield united vs preston",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "six nations table",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "natasha jonas",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "22 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "eurovision song contest remember monday",
-                "search_volume": "10K+\n\n700%",
-                "started": "18 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "liverpool v southampton",
-                "search_volume": "5K+\n\n900%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "euromillions results",
-                "search_volume": "50K+\n\n50%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
@@ -309,19 +309,13 @@
             {
                 "title": "geno smith",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "brad marchand",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "19 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "dwayne wiggins",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -331,9 +325,15 @@
                 "related_topics": ""
             },
             {
-                "title": "daylight savings 2025",
-                "search_volume": "100K+\n\n100%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "title": "dwayne wiggins",
+                "search_volume": "100K+\n\n1,000%",
+                "started": "21 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "xavier worthy",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -343,33 +343,39 @@
                 "related_topics": ""
             },
             {
+                "title": "daylight savings 2025",
+                "search_volume": "100K+\n\n100%",
+                "started": "5 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "happy international women's day",
+                "search_volume": "20K+\n\n900%",
+                "started": "10 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "ufc 313",
                 "search_volume": "50K+\n\n100%",
                 "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "happy international women's day",
-                "search_volume": "20K+\n\n800%",
-                "started": "10 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "suns vs nuggets",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "13 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "social security payments beneficiaries",
-                "search_volume": "20K+\n\n600%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "columbia university",
                 "search_volume": "50K+\n\n800%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "started": "22 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "yolanda saldivar",
+                "search_volume": "20K+\n\n200%",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -379,15 +385,27 @@
                 "related_topics": ""
             },
             {
-                "title": "yolanda saldivar",
-                "search_volume": "10K+\n\n200%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "title": "big lots stores reopening",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "11 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "cavaliers vs hornets",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "16 hours ago\ntrending_up\nActive",
+                "started": "17 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "social security payments beneficiaries",
+                "search_volume": "20K+\n\n600%",
+                "started": "18 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "brad marchand trade",
+                "search_volume": "20K+\n\n800%",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -403,39 +421,15 @@
                 "related_topics": ""
             },
             {
-                "title": "brad marchand trade",
-                "search_volume": "20K+\n\n700%",
-                "started": "19 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "firing squad south carolina",
                 "search_volume": "20K+\n\n300%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "xavier worthy",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "big lots stores reopening",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "puebla - pumas",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "13 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "timberwolves vs heat",
-                "search_volume": "20K+\n\n700%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "title": "premier league",
+                "search_volume": "50K+\n\n100%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -445,15 +439,21 @@
                 "related_topics": ""
             },
             {
-                "title": "premier league",
-                "search_volume": "20K+\n\n100%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "timberwolves vs heat",
+                "search_volume": "20K+\n\n700%",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "jokic",
                 "search_volume": "20K+\n\n1,000%",
                 "started": "10 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "dateline lori vallow",
+                "search_volume": "20K+\n\n200%",
+                "started": "17 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
