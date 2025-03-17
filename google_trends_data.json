@@ -1,53 +1,53 @@
 {
-    "timestamp": "2025-03-17 19:00:28",
+    "timestamp": "2025-03-17 19:30:28",
     "trends": {
         "IE": [
             {
                 "title": "st. patrick's day",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "conor mcgregor",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "victoria smurfit",
                 "search_volume": "5K+\n\n1,000%",
+                "started": "10 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "\u00e9milie dequenne",
+                "search_volume": "2K+\n\n1,000%",
                 "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "ben folds",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "17 hours ago\ntrending_up\nActive",
+                "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "donegal daily",
-                "search_volume": "2K+\n\n200%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "\u00e9milie dequenne",
+                "title": "leinster schools senior cup",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "karoline leavitt",
-                "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "dublin airport",
                 "search_volume": "1K+\n\n100%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "karoline leavitt",
+                "search_volume": "200+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -57,39 +57,27 @@
                 "related_topics": ""
             },
             {
-                "title": "leinster schools senior cup",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "5 hours ago\n\nLasted 5 hr",
-                "related_topics": ""
-            },
-            {
                 "title": "three ireland credit issue",
                 "search_volume": "200+\n\n700%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
+                "title": "donegal daily",
+                "search_volume": "2K+\n\n200%",
+                "started": "9 hours ago\n\nLasted 9 hr",
+                "related_topics": ""
+            },
+            {
                 "title": "john wayne",
                 "search_volume": "500+\n\n1,000%",
-                "started": "2 hours ago\n\nLasted 2 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "rhys mcclenaghan",
-                "search_volume": "10K+\n\n700%",
-                "started": "23 hours ago\n\nLasted 16 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "atl\u00e9tico madrid vs barcelona",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "23 hours ago\n\nLasted 16 hr",
+                "started": "3 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
                 "title": "shamrock",
                 "search_volume": "2K+\n\n300%",
-                "started": "11 hours ago\n\nLasted 7 hr",
+                "started": "12 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
             },
             {
@@ -99,8 +87,14 @@
                 "related_topics": ""
             },
             {
+                "title": "who won dancing with the stars 2025",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "23 hours ago\n\nLasted 15 hr",
+                "related_topics": ""
+            },
+            {
                 "title": "eugene levy",
-                "search_volume": "100+\n\n1,000%",
+                "search_volume": "500+\n\n1,000%",
                 "started": "1 hour ago\n\nLasted 1 hr",
                 "related_topics": ""
             },
@@ -108,12 +102,6 @@
                 "title": "jj spaun",
                 "search_volume": "5K+\n\n1,000%",
                 "started": "20 hours ago\n\nLasted 16 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "jack woolley",
-                "search_volume": "5K+\n\n300%",
-                "started": "23 hours ago\n\nLasted 12 hr",
                 "related_topics": ""
             },
             {
@@ -129,9 +117,9 @@
                 "related_topics": ""
             },
             {
-                "title": "psg vs marseille",
-                "search_volume": "1K+\n\n1,000%",
-                "started": "23 hours ago\n\nLasted 15 hr",
+                "title": "dancing with the stars",
+                "search_volume": "2K+\n\n100%",
+                "started": "23 hours ago\n\nLasted 14 hr",
                 "related_topics": ""
             },
             {
@@ -141,15 +129,27 @@
                 "related_topics": ""
             },
             {
-                "title": "galway parade",
-                "search_volume": "500+\n\n700%",
-                "started": "8 hours ago\n\nLasted 3 hr",
+                "title": "thomas carty",
+                "search_volume": "500+\n\n400%",
+                "started": "21 hours ago\n\nLasted 14 hr",
                 "related_topics": ""
             },
             {
-                "title": "thurles cbs",
-                "search_volume": "100+\n\n1,000%",
-                "started": "2 hours ago\n\nLasted 50 min",
+                "title": "tommy tiernan paddy mcguinness",
+                "search_volume": "500+\n\n1,000%",
+                "started": "9 hours ago\n\nLasted 2 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "tripoli",
+                "search_volume": "500+\n\n500%",
+                "started": "13 hours ago\n\nLasted 7 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "callum walsh",
+                "search_volume": "500+\n\n300%",
+                "started": "19 hours ago\n\nLasted 11 hr",
                 "related_topics": ""
             }
         ],
@@ -167,14 +167,8 @@
                 "related_topics": ""
             },
             {
-                "title": "atl\u00e9tico madrid vs barcelona",
-                "search_volume": "50K+\n\n1,000%",
-                "started": "23 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "stevie wonder",
-                "search_volume": "20K+\n\n800%",
+                "search_volume": "20K+\n\n700%",
                 "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -197,15 +191,15 @@
                 "related_topics": ""
             },
             {
-                "title": "lasso",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "title": "tripoli",
+                "search_volume": "10K+\n\n800%",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "tripoli",
-                "search_volume": "10K+\n\n800%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "title": "lasso",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -216,20 +210,8 @@
             },
             {
                 "title": "conor mcgregor",
-                "search_volume": "5K+\n\n1,000%",
+                "search_volume": "5K+\n\n900%",
                 "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "happy st patrick's day",
-                "search_volume": "10K+\n\n700%",
-                "started": "18 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "duck bay hotel",
-                "search_volume": "10K+\n\n500%",
-                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -240,26 +222,32 @@
             },
             {
                 "title": "cat food recalled",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n800%",
+                "started": "10 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "duck bay hotel",
+                "search_volume": "10K+\n\n400%",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "patrice evra",
                 "search_volume": "2K+\n\n400%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "happy st patrick's day",
+                "search_volume": "10K+\n\n700%",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "us national parks",
                 "search_volume": "5K+\n\n500%",
-                "started": "20 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "crispin odey",
-                "search_volume": "5K+\n\n600%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -269,33 +257,27 @@
                 "related_topics": ""
             },
             {
-                "title": "richard burrows",
-                "search_volume": "2K+\n\n500%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "emba cookware recall",
-                "search_volume": "2K+\n\n600%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "crispin odey",
+                "search_volume": "5K+\n\n600%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "miami open",
                 "search_volume": "5K+\n\n200%",
-                "started": "23 hours ago\ntrending_up\nActive",
+                "started": "24 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "emba cookware recall",
+                "search_volume": "2K+\n\n600%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "waspi campaign pension compensation",
                 "search_volume": "2K+\n\n700%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "amanda abbington",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -303,13 +285,31 @@
                 "search_volume": "20K+\n\n1,000%",
                 "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
+            },
+            {
+                "title": "autopen",
+                "search_volume": "2K+\n\n300%",
+                "started": "11 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "amanda abbington",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "dzie\u0144 \u015bw. patryka",
+                "search_volume": "2K+\n\n300%",
+                "started": "16 hours ago\ntrending_up\nActive",
+                "related_topics": ""
             }
         ],
         "US": [
             {
                 "title": "march madness 2025 bracket",
                 "search_volume": "1M+\n\n1,000%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -321,37 +321,31 @@
             {
                 "title": "d\u00eda de san patricio",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "14 hours ago\ntrending_up\nActive",
+                "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "sam rockwell",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "17 hours ago\ntrending_up\nActive",
+                "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "happy st patrick's day",
-                "search_volume": "50K+\n\n1,000%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "search_volume": "100K+\n\n1,000%",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "nit bracket",
                 "search_volume": "100K+\n\n800%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "forever 21",
-                "search_volume": "50K+\n\n600%",
-                "started": "12 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "tripoli",
-                "search_volume": "50K+\n\n1,000%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "search_volume": "50K+\n\n700%",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -361,9 +355,15 @@
                 "related_topics": ""
             },
             {
+                "title": "tripoli",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "21 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "who won the players championship in 2025",
                 "search_volume": "200K+\n\n400%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -379,27 +379,21 @@
                 "related_topics": ""
             },
             {
-                "title": "shamrock",
-                "search_volume": "100K+\n\n300%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "navy destroyer southern border mission",
-                "search_volume": "20K+\n\n500%",
+                "search_volume": "20K+\n\n400%",
                 "started": "17 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "oil rich peninsula nyt",
                 "search_volume": "20K+\n\n300%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "who is st patrick",
-                "search_volume": "50K+\n\n200%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "title": "who was st patrick",
+                "search_volume": "100K+\n\n200%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -411,13 +405,13 @@
             {
                 "title": "poppi soda pepsico",
                 "search_volume": "20K+\n\n300%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "harvard",
                 "search_volume": "10K+\n\n100%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -429,19 +423,7 @@
             {
                 "title": "national parks",
                 "search_volume": "10K+\n\n200%",
-                "started": "20 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "obamacare",
-                "search_volume": "20K+\n\n100%",
-                "started": "20 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "st patricks day food",
-                "search_volume": "10K+\n\n100%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -453,7 +435,25 @@
             {
                 "title": "west virginia basketball",
                 "search_volume": "20K+\n\n200%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "obamacare",
+                "search_volume": "20K+\n\n100%",
+                "started": "21 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "sound switching strands",
+                "search_volume": "20K+\n\n100%",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "st patricks day food",
+                "search_volume": "10K+\n\n100%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
