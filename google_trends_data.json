@@ -1,23 +1,29 @@
 {
-    "timestamp": "2025-03-22 04:00:28",
+    "timestamp": "2025-03-22 04:30:28",
     "trends": {
         "IE": [
             {
-                "title": "england football",
+                "title": "weather warning ireland",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "george foreman",
                 "search_volume": "1K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "weather warning ireland",
+                "title": "uruguay vs argentina",
+                "search_volume": "1K+\n\n1,000%",
+                "started": "5 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "england vs albania",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\n\nLasted 8 hr",
                 "related_topics": ""
             },
             {
@@ -27,8 +33,8 @@
                 "related_topics": ""
             },
             {
-                "title": "uruguay vs argentina",
-                "search_volume": "1K+\n\n1,000%",
+                "title": "boeing fighter jets",
+                "search_volume": "1K+\n\n500%",
                 "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -39,14 +45,8 @@
                 "related_topics": ""
             },
             {
-                "title": "boeing fighter jets",
-                "search_volume": "1K+\n\n600%",
-                "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "social welfare payment ireland",
-                "search_volume": "200+\n\n600%",
+                "search_volume": "200+\n\n500%",
                 "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -89,13 +89,19 @@
             {
                 "title": "urc",
                 "search_volume": "1K+\n\n600%",
-                "started": "9 hours ago\n\nLasted 5 hr",
+                "started": "10 hours ago\n\nLasted 5 hr",
                 "related_topics": ""
             },
             {
                 "title": "the residence",
                 "search_volume": "1K+\n\n400%",
-                "started": "8 hours ago\n\nLasted 5 hr",
+                "started": "9 hours ago\n\nLasted 5 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "kyle hayes",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "17 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
             },
             {
@@ -107,43 +113,31 @@
             {
                 "title": "emmerdale tonight",
                 "search_volume": "500+\n\n700%",
-                "started": "5 hours ago\n\nLasted 3 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "kyle hayes",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "17 hours ago\n\nLasted 7 hr",
+                "started": "6 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
                 "title": "poland vs lithuania",
                 "search_volume": "500+\n\n1,000%",
-                "started": "8 hours ago\n\nLasted 3 hr",
+                "started": "9 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
                 "title": "kate o'connor",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "14 hours ago\n\nLasted 6 hr",
+                "started": "15 hours ago\n\nLasted 6 hr",
                 "related_topics": ""
             },
             {
                 "title": "polska \u2013 litwa",
                 "search_volume": "500+\n\n1,000%",
-                "started": "8 hours ago\n\nLasted 3 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "incel",
-                "search_volume": "500+\n\n100%",
-                "started": "5 hours ago\n\nLasted 2 hr",
+                "started": "9 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
                 "title": "new zealand vs pakistan",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "21 hours ago\n\nLasted 5 hr",
+                "started": "22 hours ago\n\nLasted 5 hr",
                 "related_topics": ""
             },
             {
@@ -151,61 +145,55 @@
                 "search_volume": "1K+\n\n800%",
                 "started": "20 hours ago\n\nLasted 11 hr",
                 "related_topics": ""
+            },
+            {
+                "title": "incel",
+                "search_volume": "500+\n\n100%",
+                "started": "5 hours ago\n\nLasted 2 hr",
+                "related_topics": ""
             }
         ],
         "GB": [
             {
                 "title": "england football",
                 "search_volume": "200K+\n\n800%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "george foreman",
-                "search_volume": "10K+\n\n1,000%",
+                "search_volume": "20K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "f47",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "12 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "london heathrow airport flights",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "f1 sprint",
                 "search_volume": "20K+\n\n500%",
-                "started": "19 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "lewis skelly",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "uruguay vs argentina",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "garron noone tiktok",
-                "search_volume": "10K+\n\n900%",
-                "started": "12 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "katherine ryan",
-                "search_volume": "10K+\n\n900%",
-                "started": "13 hours ago\ntrending_up\nActive",
+                "title": "london heathrow airport flights",
+                "search_volume": "100K+\n\n1,000%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -216,37 +204,31 @@
             },
             {
                 "title": "atomfall reviews",
-                "search_volume": "10K+\n\n700%",
-                "started": "10 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n600%",
+                "started": "11 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "katherine ryan",
+                "search_volume": "10K+\n\n900%",
+                "started": "14 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "uk subs punk band",
+                "search_volume": "20K+\n\n800%",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "severance season 3",
                 "search_volume": "10K+\n\n700%",
-                "started": "23 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "poland vs lithuania",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "uk subs punk band",
-                "search_volume": "20K+\n\n700%",
-                "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "davina mccall",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
+                "started": "24 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "argentina",
-                "search_volume": "2K+\n\n500%",
+                "search_volume": "2K+\n\n400%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -257,9 +239,15 @@
                 "related_topics": ""
             },
             {
-                "title": "sophie habboo",
-                "search_volume": "5K+\n\n600%",
-                "started": "17 hours ago\ntrending_up\nActive",
+                "title": "severance",
+                "search_volume": "10K+\n\n50%",
+                "started": "6 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "polska litwa",
+                "search_volume": "10K+\n\n400%",
+                "started": "11 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -270,7 +258,7 @@
             },
             {
                 "title": "national lottery results euromillions",
-                "search_volume": "50K+\n\n800%",
+                "search_volume": "50K+\n\n600%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -281,12 +269,6 @@
                 "related_topics": ""
             },
             {
-                "title": "trillion",
-                "search_volume": "500+\n\n300%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "emma raducanu",
                 "search_volume": "20K+\n\n800%",
                 "started": "10 hours ago\n\nLasted 6 hr",
@@ -294,56 +276,68 @@
             },
             {
                 "title": "f1 schedule",
-                "search_volume": "1K+\n\n400%",
-                "started": "30 minutes ago\ntrending_up\nActive",
+                "search_volume": "1K+\n\n600%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "severance",
-                "search_volume": "10K+\n\n50%",
-                "started": "6 hours ago\n\nLasted 5 hr",
+                "title": "trillion",
+                "search_volume": "500+\n\n300%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "davina mccall",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "9 hours ago\n\nLasted 9 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "bbc comic relief red nose day",
+                "search_volume": "20K+\n\n900%",
+                "started": "8 hours ago\n\nLasted 6 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "ipl 2025 schedule",
+                "search_volume": "2K+\n\n75%",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
         "US": [
             {
-                "title": "women\u2019s march madness",
-                "search_volume": "5M+\n\n1,000%",
-                "started": "24 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "george foreman",
                 "search_volume": "1M+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "f-47",
                 "search_volume": "500K+\n\n1,000%",
-                "started": "12 hours ago\ntrending_up\nActive",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "bryant university",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "illinois basketball",
-                "search_volume": "100K+\n\n700%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "uruguay - argentina",
-                "search_volume": "50K+\n\n1,000%",
+                "search_volume": "200K+\n\n1,000%",
                 "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "oklahoma basketball",
+                "title": "uconn basketball",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "illinois basketball",
+                "search_volume": "100K+\n\n800%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "oregon basketball",
                 "search_volume": "50K+\n\n1,000%",
                 "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
@@ -355,19 +349,19 @@
                 "related_topics": ""
             },
             {
+                "title": "uruguay - argentina",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "5 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "jameis winston",
                 "search_volume": "50K+\n\n1,000%",
                 "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "oregon basketball",
-                "search_volume": "50K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "guyana - guatemala",
+                "title": "cavaliers vs suns",
                 "search_volume": "20K+\n\n1,000%",
                 "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
@@ -379,69 +373,63 @@
                 "related_topics": ""
             },
             {
+                "title": "england vs albania",
+                "search_volume": "100K+\n\n1,000%",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "wicked",
+                "search_volume": "50K+\n\n200%",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "guyana - guatemala",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "celtics vs jazz",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "pistons vs mavericks",
                 "search_volume": "20K+\n\n1,000%",
                 "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "cavaliers vs suns",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "title": "new mexico basketball",
+                "search_volume": "100K+\n\n600%",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "wicked",
-                "search_volume": "50K+\n\n200%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "england vs albania",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "uconn basketball",
-                "search_volume": "20K+\n\n800%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "celtics vs jazz",
+                "title": "nuggets vs trail blazers",
                 "search_volume": "10K+\n\n1,000%",
                 "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "unc vs ole miss",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "new mexico vs marquette",
-                "search_volume": "100K+\n\n500%",
+                "title": "richard pitino",
+                "search_volume": "20K+\n\n1,000%",
                 "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "dan bernstein",
-                "search_volume": "20K+\n\n700%",
+                "search_volume": "20K+\n\n600%",
                 "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "aldi cheese recalls",
-                "search_volume": "20K+\n\n700%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "mexico vs panama",
+                "title": "f1 sprint",
                 "search_volume": "20K+\n\n300%",
-                "started": "23 hours ago\ntrending_up\nActive",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -451,9 +439,21 @@
                 "related_topics": ""
             },
             {
-                "title": "nuggets vs trail blazers",
+                "title": "jeremiah fears",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "coreweave",
+                "search_volume": "20K+\n\n800%",
+                "started": "6 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "unc vs ole miss",
+                "search_volume": "200K+\n\n1,000%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
