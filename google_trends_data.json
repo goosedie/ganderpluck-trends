@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-03-25 02:00:27",
+    "timestamp": "2025-03-25 02:30:28",
     "trends": {
         "IE": [
             {
@@ -17,19 +17,25 @@
             {
                 "title": "hamdan ballal",
                 "search_volume": "1K+\n\n1,000%",
-                "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "helen mcentee education",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "thunders bakery",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "13 hours ago\n\nLasted 12 hr",
+                "started": "14 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "helen mcentee education",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "6 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "pete hegseth",
+                "search_volume": "500+\n\n500%",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -41,31 +47,25 @@
             {
                 "title": "charlie smyth",
                 "search_volume": "500+\n\n1,000%",
-                "started": "3 hours ago\n\nLasted 2 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "pete hegseth",
-                "search_volume": "200+\n\n600%",
-                "started": "4 hours ago\n\nLasted 4 hr",
+                "started": "4 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
                 "title": "is coronation street on tonight",
                 "search_volume": "500+\n\n1,000%",
-                "started": "4 hours ago\n\nLasted 3 hr",
+                "started": "5 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
                 "title": "charlie bird",
                 "search_volume": "500+\n\n1,000%",
-                "started": "4 hours ago\n\nLasted 2 hr",
+                "started": "5 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
                 "title": "world cup qualifiers",
                 "search_volume": "1K+\n\n200%",
-                "started": "5 hours ago\n\nLasted 2 hr",
+                "started": "6 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
@@ -77,19 +77,19 @@
             {
                 "title": "ticketmaster",
                 "search_volume": "2K+\n\n200%",
-                "started": "9 hours ago\n\nLasted 3 hr",
+                "started": "10 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
                 "title": "polska \u2013 malta",
                 "search_volume": "500+\n\n900%",
-                "started": "6 hours ago\n\nLasted 3 hr",
+                "started": "7 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
                 "title": "england fc",
                 "search_volume": "500+\n\n900%",
-                "started": "5 hours ago\n\nLasted 2 hr",
+                "started": "6 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
@@ -107,7 +107,7 @@
             {
                 "title": "anne enright",
                 "search_volume": "200+\n\n500%",
-                "started": "4 hours ago\n\nLasted 3 hr",
+                "started": "5 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
@@ -117,21 +117,21 @@
                 "related_topics": ""
             },
             {
-                "title": "joe gatto",
-                "search_volume": "200+\n\n300%",
-                "started": "6 hours ago\n\nLasted 5 hr",
+                "title": "south africa plane crash",
+                "search_volume": "1K+\n\n1,000%",
+                "started": "18 hours ago\n\nLasted 6 hr",
                 "related_topics": ""
             },
             {
                 "title": "chloe koyce",
                 "search_volume": "500+\n\n200%",
-                "started": "16 hours ago\n\nLasted 11 hr",
+                "started": "17 hours ago\n\nLasted 11 hr",
                 "related_topics": ""
             },
             {
-                "title": "south africa plane crash",
-                "search_volume": "1K+\n\n1,000%",
-                "started": "18 hours ago\n\nLasted 6 hr",
+                "title": "joe gatto",
+                "search_volume": "200+\n\n300%",
+                "started": "6 hours ago\n\nLasted 5 hr",
                 "related_topics": ""
             },
             {
@@ -143,26 +143,26 @@
             {
                 "title": "gerard depardieu",
                 "search_volume": "500+\n\n1,000%",
-                "started": "13 hours ago\n\nLasted 7 hr",
+                "started": "14 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
             },
             {
-                "title": "mary berry",
+                "title": "cameron cooper",
                 "search_volume": "200+\n\n1,000%",
-                "started": "6 hours ago\n\nLasted 1 hr",
+                "started": "8 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             }
         ],
         "GB": [
             {
-                "title": "reece james",
-                "search_volume": "200K+\n\n1,000%",
+                "title": "morrisons cafe store closures",
+                "search_volume": "50K+\n\n1,000%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "morrisons cafe store closures",
-                "search_volume": "50K+\n\n1,000%",
+                "title": "reece james",
+                "search_volume": "200K+\n\n1,000%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -173,15 +173,15 @@
                 "related_topics": ""
             },
             {
-                "title": "ashutosh sharma",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "23andme",
                 "search_volume": "10K+\n\n700%",
                 "started": "18 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "ashutosh sharma",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -191,21 +191,21 @@
                 "related_topics": ""
             },
             {
+                "title": "cain velasquez",
+                "search_volume": "2K+\n\n800%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "pete hegseth",
-                "search_volume": "10K+\n\n500%",
+                "search_volume": "10K+\n\n400%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "morgan rogers",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "cain velasquez",
-                "search_volume": "2K+\n\n800%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -215,21 +215,9 @@
                 "related_topics": ""
             },
             {
-                "title": "magic vs lakers",
-                "search_volume": "1K+\n\n900%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "spacex rocket launch spiral",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "tamim iqbal",
                 "search_volume": "2K+\n\n200%",
-                "started": "16 hours ago\ntrending_up\nActive",
+                "started": "17 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -239,33 +227,21 @@
                 "related_topics": ""
             },
             {
-                "title": "madagascar vs ghana",
-                "search_volume": "5K+\n\n800%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "title": "magic vs lakers",
+                "search_volume": "2K+\n\n900%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "mary berry",
+                "title": "spacex rocket launch spiral",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "19 hours ago\n\nLasted 17 hr",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "pok\u00e9mon tcg destined rivals",
-                "search_volume": "10K+\n\n400%",
-                "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "jobe bellingham",
-                "search_volume": "2K+\n\n300%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "brazil vs argentina",
-                "search_volume": "2K+\n\n100%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "title": "madagascar vs ghana",
+                "search_volume": "10K+\n\n800%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -275,27 +251,51 @@
                 "related_topics": ""
             },
             {
+                "title": "brazil vs argentina",
+                "search_volume": "2K+\n\n100%",
+                "started": "4 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "pok\u00e9mon tcg destined rivals",
+                "search_volume": "10K+\n\n400%",
+                "started": "6 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "mary berry",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "19 hours ago\n\nLasted 17 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "england fc",
+                "search_volume": "20K+\n\n800%",
+                "started": "7 hours ago\n\nLasted 3 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "jobe bellingham",
+                "search_volume": "2K+\n\n300%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "england u21",
                 "search_volume": "10K+\n\n1,000%",
                 "started": "6 hours ago\n\nLasted 5 hr",
                 "related_topics": ""
             },
             {
-                "title": "joao fonseca",
-                "search_volume": "500+\n\n300%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "tony todd",
-                "search_volume": "2K+\n\n100%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "cal",
-                "search_volume": "500+\n\n600%",
+                "search_volume": "500+\n\n400%",
                 "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "tori woods",
+                "search_volume": "500+\n\n100%",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -309,7 +309,7 @@
             {
                 "title": "pete hegseth",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -321,13 +321,13 @@
             {
                 "title": "hamdan ballal",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "mia love",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "23 hours ago\ntrending_up\nActive",
+                "title": "bachelor finale",
+                "search_volume": "100K+\n\n300%",
+                "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -337,68 +337,68 @@
                 "related_topics": ""
             },
             {
-                "title": "bachelor finale",
-                "search_volume": "50K+\n\n300%",
-                "started": "10 hours ago\ntrending_up\nActive",
+                "title": "mavericks vs nets",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "uconn women's basketball",
-                "search_volume": "50K+\n\n600%",
+                "title": "paige bueckers",
+                "search_volume": "50K+\n\n900%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "23andme genetic data",
-                "search_volume": "50K+\n\n600%",
-                "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "mavericks vs nets",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "search_volume": "100K+\n\n600%",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "timberwolves vs pacers",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "sarah ashlee barker",
-                "search_volume": "50K+\n\n1,000%",
+                "search_volume": "20K+\n\n1,000%",
                 "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "england vs latvia",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "sarah ashlee barker",
+                "search_volume": "50K+\n\n900%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "bulls vs nuggets",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "tony todd",
-                "search_volume": "10K+\n\n200%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "joao fonseca",
-                "search_volume": "10K+\n\n900%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "lucas bravo",
-                "search_volume": "10K+\n\n700%",
+                "title": "tony todd",
+                "search_volume": "20K+\n\n200%",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "celtics vs kings",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "stephen collins",
+                "search_volume": "20K+\n\n500%",
+                "started": "15 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "raptors vs wizards",
+                "search_volume": "5K+\n\n600%",
                 "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -409,32 +409,14 @@
                 "related_topics": ""
             },
             {
-                "title": "stephen collins",
-                "search_volume": "20K+\n\n400%",
-                "started": "15 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "destined rivals",
-                "search_volume": "50K+\n\n200%",
-                "started": "12 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "ashutosh sharma",
-                "search_volume": "20K+\n\n600%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "kat abughazaleh",
-                "search_volume": "10K+\n\n200%",
-                "started": "12 hours ago\ntrending_up\nActive",
+                "title": "lucas bravo",
+                "search_volume": "10K+\n\n700%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "$20 billion hyundai investment",
-                "search_volume": "20K+\n\n600%",
+                "search_volume": "20K+\n\n500%",
                 "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -446,14 +428,32 @@
             },
             {
                 "title": "drake bell",
-                "search_volume": "10K+\n\n100%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n100%",
+                "started": "12 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "celtics vs kings",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
+                "title": "destined rivals",
+                "search_volume": "50K+\n\n200%",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "ashutosh sharma",
+                "search_volume": "20K+\n\n500%",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "joao fonseca",
+                "search_volume": "10K+\n\n700%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bucks vs suns",
+                "search_volume": "5K+\n\n800%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
