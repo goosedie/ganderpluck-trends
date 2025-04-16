@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-04-16 16:30:27",
+    "timestamp": "2025-04-16 17:00:27",
     "trends": {
         "IE": [
             {
                 "title": "spotify",
-                "search_volume": "10K+\n\n700%",
+                "search_volume": "10K+\n\n600%",
                 "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -17,18 +17,18 @@
             {
                 "title": "spain earthquake today",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "dc vs rr",
-                "search_volume": "500+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "weather warning ireland",
                 "search_volume": "20K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "dc vs rr",
+                "search_volume": "500+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -51,15 +51,15 @@
                 "related_topics": ""
             },
             {
-                "title": "lyft",
-                "search_volume": "500+\n\n1,000%",
-                "started": "3 hours ago\n\nLasted 2 hr",
+                "title": "hantavirus",
+                "search_volume": "1K+\n\n800%",
+                "started": "13 hours ago\n\nLasted 10 hr",
                 "related_topics": ""
             },
             {
-                "title": "hantavirus",
-                "search_volume": "1K+\n\n800%",
-                "started": "12 hours ago\n\nLasted 10 hr",
+                "title": "lyft",
+                "search_volume": "500+\n\n1,000%",
+                "started": "4 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
@@ -95,19 +95,19 @@
             {
                 "title": "harriet dart",
                 "search_volume": "200+\n\n300%",
-                "started": "9 hours ago\n\nLasted 3 hr",
+                "started": "10 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
                 "title": "elder scrolls oblivion remastered",
                 "search_volume": "500+\n\n700%",
-                "started": "19 hours ago\n\nLasted 11 hr",
+                "started": "20 hours ago\n\nLasted 11 hr",
                 "related_topics": ""
             },
             {
                 "title": "dortmund",
                 "search_volume": "1K+\n\n1,000%",
-                "started": "19 hours ago\n\nLasted 10 hr",
+                "started": "20 hours ago\n\nLasted 10 hr",
                 "related_topics": ""
             },
             {
@@ -125,13 +125,13 @@
             {
                 "title": "trisha goddard",
                 "search_volume": "500+\n\n1,000%",
-                "started": "18 hours ago\n\nLasted 2 hr",
+                "started": "19 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
                 "title": "warriors vs grizzlies",
                 "search_volume": "200+\n\n600%",
-                "started": "8 hours ago\n\nLasted 1 hr",
+                "started": "9 hours ago\n\nLasted 1 hr",
                 "related_topics": ""
             },
             {
@@ -143,7 +143,7 @@
             {
                 "title": "nba",
                 "search_volume": "200+\n\n100%",
-                "started": "12 hours ago\n\nLasted 3 hr",
+                "started": "13 hours ago\n\nLasted 3 hr",
                 "related_topics": ""
             },
             {
@@ -156,38 +156,38 @@
         "GB": [
             {
                 "title": "spotify",
-                "search_volume": "100K+\n\n800%",
+                "search_volume": "200K+\n\n600%",
                 "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "dortmund vs barcelona",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "colossal squid",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "dortmund vs barcelona",
+                "search_volume": "100K+\n\n1,000%",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "supreme court",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "dc vs rr",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "sacha parkinson",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "dc vs rr",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -197,27 +197,33 @@
                 "related_topics": ""
             },
             {
-                "title": "state pension age",
-                "search_volume": "10K+\n\n800%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "title": "runescape dragon wilds",
+                "search_volume": "10K+\n\n500%",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "runescape dragon wilds",
-                "search_volume": "10K+\n\n500%",
+                "title": "state pension age",
+                "search_volume": "10K+\n\n800%",
                 "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "ee tech drop",
-                "search_volume": "2K+\n\n800%",
+                "search_volume": "5K+\n\n900%",
                 "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
+                "title": "the stolen girl",
+                "search_volume": "5K+\n\n500%",
+                "started": "10 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "amanda bynes",
-                "search_volume": "5K+\n\n700%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "search_volume": "5K+\n\n800%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -233,26 +239,26 @@
                 "related_topics": ""
             },
             {
-                "title": "aaron boupendza",
-                "search_volume": "2K+\n\n500%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "zara mcdermott",
-                "search_volume": "5K+\n\n900%",
+                "search_volume": "5K+\n\n800%",
                 "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "rolling stones",
+                "title": "aaron boupendza",
                 "search_volume": "2K+\n\n600%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "rolling stones",
+                "search_volume": "5K+\n\n500%",
                 "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "islamabad united vs multan sultans",
-                "search_volume": "1K+\n\n1,000%",
+                "search_volume": "2K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -271,7 +277,7 @@
             {
                 "title": "tay k",
                 "search_volume": "2K+\n\n200%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "12 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -283,25 +289,19 @@
             {
                 "title": "maxine hollyoaks",
                 "search_volume": "2K+\n\n200%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "jake fraser-mcgurk",
-                "search_volume": "500+\n\n300%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "iga \u015bwi\u0105tek",
+                "search_volume": "200+\n\n400%",
+                "started": "40 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "boupendza",
-                "search_volume": "1K+\n\n200%",
-                "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "aurora borealis geomagnetic storm",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "15 hours ago\n\nLasted 12 hr",
+                "title": "abishek porel",
+                "search_volume": "500+\n\n400%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
@@ -309,12 +309,12 @@
             {
                 "title": "spotify",
                 "search_volume": "500K+\n\n300%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "grizzlies vs warriors",
-                "search_volume": "1M+\n\n1,000%",
+                "search_volume": "500K+\n\n1,000%",
                 "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -331,12 +331,6 @@
                 "related_topics": ""
             },
             {
-                "title": "dortmund - barcelona",
-                "search_volume": "1M+\n\n1,000%",
-                "started": "21 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "runescape dragon wilds",
                 "search_volume": "50K+\n\n800%",
                 "started": "23 hours ago\ntrending_up\nActive",
@@ -345,7 +339,7 @@
             {
                 "title": "letitia james",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "16 hours ago\ntrending_up\nActive",
+                "started": "17 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -356,14 +350,8 @@
             },
             {
                 "title": "cruz azul - le\u00f3n",
-                "search_volume": "50K+\n\n1,000%",
+                "search_volume": "100K+\n\n1,000%",
                 "started": "13 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "colossal squid",
-                "search_volume": "10K+\n\n400%",
-                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -373,15 +361,21 @@
                 "related_topics": ""
             },
             {
+                "title": "cole anthony",
+                "search_volume": "200K+\n\n1,000%",
+                "started": "16 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "amanda bynes",
                 "search_volume": "20K+\n\n500%",
                 "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "cole anthony",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "title": "colossal squid",
+                "search_volume": "10K+\n\n400%",
+                "started": "17 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -391,21 +385,27 @@
                 "related_topics": ""
             },
             {
-                "title": "dc vs rr",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "title": "rolling stones",
+                "search_volume": "10K+\n\n400%",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "rolling stones",
-                "search_volume": "10K+\n\n300%",
-                "started": "13 hours ago\ntrending_up\nActive",
+                "title": "dc vs rr",
+                "search_volume": "5K+\n\n900%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "gawr gura",
                 "search_volume": "20K+\n\n300%",
                 "started": "19 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "dortmund - barcelona",
+                "search_volume": "1M+\n\n1,000%",
+                "started": "22 hours ago\n\nLasted 21 hr",
                 "related_topics": ""
             },
             {
@@ -416,20 +416,14 @@
             },
             {
                 "title": "marjorie taylor greene",
-                "search_volume": "10K+\n\n200%",
+                "search_volume": "20K+\n\n200%",
                 "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "done again in a similar way nyt",
-                "search_volume": "10K+\n\n200%",
-                "started": "12 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "mark saldivar",
-                "search_volume": "10K+\n\n300%",
-                "started": "12 hours ago\ntrending_up\nActive",
+                "title": "red robin burger pass",
+                "search_volume": "5K+\n\n100%",
+                "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -440,20 +434,26 @@
             },
             {
                 "title": "nick chubb",
-                "search_volume": "5K+\n\n400%",
+                "search_volume": "5K+\n\n300%",
                 "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "red robin burger pass",
-                "search_volume": "5K+\n\n100%",
-                "started": "14 hours ago\ntrending_up\nActive",
+                "title": "student loans repayment",
+                "search_volume": "2K+\n\n700%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "chuck grassley",
+                "title": "mark saldivar",
+                "search_volume": "10K+\n\n300%",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "done again in a similar way nyt",
                 "search_volume": "10K+\n\n200%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
