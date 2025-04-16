@@ -1,21 +1,27 @@
 {
-    "timestamp": "2025-04-16 22:30:27",
+    "timestamp": "2025-04-16 23:00:27",
     "trends": {
         "IE": [
             {
                 "title": "real madrid vs arsenal",
-                "search_volume": "50K+\n\n1,000%",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "champions league",
+                "search_volume": "20K+\n\n900%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "newcastle vs crystal palace",
+                "search_volume": "10K+\n\n1,000%",
                 "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "inter vs bayern",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "newcastle vs crystal palace",
                 "search_volume": "10K+\n\n1,000%",
                 "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
@@ -29,25 +35,7 @@
             {
                 "title": "irish man dies in malta",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "uefa champions league",
-                "search_volume": "2K+\n\n700%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "rieko ioane",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "14 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "champions league semi final 2025",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "30 minutes ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -57,9 +45,21 @@
                 "related_topics": ""
             },
             {
+                "title": "weather warning ireland",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "dunnes stores easter sunday closing",
-                "search_volume": "500+\n\n1,000%",
+                "search_volume": "1K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "air fryer recall tower",
+                "search_volume": "1K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -69,27 +69,9 @@
                 "related_topics": ""
             },
             {
-                "title": "weather warning ireland",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "air fryer recall tower",
-                "search_volume": "500+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "champions league final",
-                "search_volume": "500+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "modric",
-                "search_volume": "500+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
+                "search_volume": "500+\n\n900%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -106,38 +88,44 @@
             },
             {
                 "title": "the stolen girl",
-                "search_volume": "200+\n\n400%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "endrick",
-                "search_volume": "200+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "george mitchell",
-                "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "search_volume": "500+\n\n400%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "bundesliga",
-                "search_volume": "200+\n\n400%",
-                "started": "40 minutes ago\ntrending_up\nActive",
+                "search_volume": "200+\n\n300%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "remontada",
-                "search_volume": "200+\n\n500%",
+                "search_volume": "200+\n\n600%",
+                "started": "50 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "champions league semi finals",
+                "search_volume": "200+\n\n1,000%",
                 "started": "20 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "rudiger",
-                "search_volume": "100+\n\n900%",
-                "started": "20 minutes ago\ntrending_up\nActive",
+                "title": "rieko ioane",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "14 hours ago\n\nLasted 14 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "modric",
+                "search_volume": "500+\n\n1,000%",
+                "started": "1 hour ago\n\nLasted 1 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "douglas murray",
+                "search_volume": "100+\n\n600%",
+                "started": "10 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -147,23 +135,35 @@
                 "related_topics": ""
             },
             {
-                "title": "jude bellingham",
+                "title": "endrick",
                 "search_volume": "200+\n\n1,000%",
                 "started": "1 hour ago\n\nLasted 1 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "mbappe",
+                "search_volume": "200+\n\n700%",
+                "started": "2 hours ago\n\nLasted 2 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "spain earthquake today",
+                "search_volume": "1K+\n\n1,000%",
+                "started": "13 hours ago\n\nLasted 9 hr",
                 "related_topics": ""
             }
         ],
         "GB": [
             {
-                "title": "arsenal",
+                "title": "real madrid vs arsenal",
                 "search_volume": "500K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "real madrid vs arsenal",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "title": "arsenal",
+                "search_volume": "500K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -175,61 +175,55 @@
             {
                 "title": "inter vs bayern",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "uefa champions league",
+                "title": "supreme court",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "football today",
-                "search_volume": "100K+\n\n200%",
+                "title": "champions league semi final 2025",
+                "search_volume": "20K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "colossal squid",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "14 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "champions league semi final",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "spotify outage",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "bbc sport",
-                "search_volume": "50K+\n\n200%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "the stolen girl",
                 "search_volume": "10K+\n\n600%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "champions league semi final 2025",
-                "search_volume": "5K+\n\n1,000%",
+                "title": "champions league games",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "champions league final",
+                "search_volume": "10K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "amanda bynes",
-                "search_volume": "10K+\n\n700%",
-                "started": "13 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n800%",
+                "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -239,27 +233,15 @@
                 "related_topics": ""
             },
             {
-                "title": "champions league final",
+                "title": "real madrid vs arsenal f.c. lineups",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "northern lights",
-                "search_volume": "10K+\n\n700%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "ee tech drop",
-                "search_volume": "5K+\n\n800%",
-                "started": "11 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "endrick",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n900%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -269,15 +251,15 @@
                 "related_topics": ""
             },
             {
-                "title": "luka modric",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "bernabeu",
                 "search_volume": "5K+\n\n1,000%",
                 "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "steve davis",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -287,19 +269,37 @@
                 "related_topics": ""
             },
             {
-                "title": "bbc sport football",
-                "search_volume": "10K+\n\n300%",
+                "title": "mcspicy frank's redhot burger return uk",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "real madrid vs arsenal f.c. stats",
+                "search_volume": "5K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "mbappe",
+                "title": "lewis skelly",
+                "search_volume": "5K+\n\n900%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "rolling stones",
+                "search_volume": "5K+\n\n400%",
+                "started": "16 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "jude bellingham",
                 "search_volume": "5K+\n\n800%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "rudiger",
+                "title": "endrick",
                 "search_volume": "2K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
@@ -309,19 +309,13 @@
             {
                 "title": "real madrid vs arsenal",
                 "search_volume": "500K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "real madrid - arsenal",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "zoom",
-                "search_volume": "200K+\n\n800%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -331,9 +325,21 @@
                 "related_topics": ""
             },
             {
+                "title": "champions league",
+                "search_volume": "500K+\n\n900%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "zoom",
+                "search_volume": "500K+\n\n600%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "real madrid",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -343,27 +349,27 @@
                 "related_topics": ""
             },
             {
-                "title": "spotify down",
-                "search_volume": "500K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "letitia james",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "tiffany fong",
-                "search_volume": "20K+\n\n600%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "title": "spotify down",
+                "search_volume": "500K+\n\n1,000%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "newcastle vs crystal palace",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "started": "4 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "tiffany fong",
+                "search_volume": "20K+\n\n600%",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -375,19 +381,19 @@
             {
                 "title": "colossal squid",
                 "search_volume": "20K+\n\n600%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "student loans repayment",
-                "search_volume": "20K+\n\n700%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n800%",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "real madrid vs arsenal f.c.",
-                "search_volume": "20K+\n\n800%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "title": "nora aunor",
+                "search_volume": "20K+\n\n700%",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -397,21 +403,27 @@
                 "related_topics": ""
             },
             {
-                "title": "nora aunor",
-                "search_volume": "20K+\n\n800%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "title": "van hollen",
+                "search_volume": "20K+\n\n100%",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "2026 subaru outback",
                 "search_volume": "10K+\n\n500%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "cole anthony",
-                "search_volume": "200K+\n\n600%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "title": "limestone university",
+                "search_volume": "10K+\n\n400%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "champions league bracket",
+                "search_volume": "10K+\n\n300%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -421,15 +433,9 @@
                 "related_topics": ""
             },
             {
-                "title": "van hollen",
-                "search_volume": "10K+\n\n100%",
-                "started": "21 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "limestone university",
-                "search_volume": "10K+\n\n300%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "marcus thuram",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -439,21 +445,15 @@
                 "related_topics": ""
             },
             {
-                "title": "marcus thuram",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "30 minutes ago\ntrending_up\nActive",
+                "title": "guardians vs orioles",
+                "search_volume": "20K+\n\n500%",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "champions league bracket",
-                "search_volume": "5K+\n\n500%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "red robin burger pass",
-                "search_volume": "10K+\n\n100%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "title": "ucla football",
+                "search_volume": "5K+\n\n300%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
