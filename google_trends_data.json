@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-04-27 23:30:27",
+    "timestamp": "2025-04-28 00:00:27",
     "trends": {
         "IE": [
             {
@@ -17,7 +17,13 @@
             {
                 "title": "vancouver",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "started": "16 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "meath v dublin",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -27,31 +33,25 @@
                 "related_topics": ""
             },
             {
-                "title": "leinster final 2025",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "nottm forest vs man city",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "7 hours ago\n\nLasted 7 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "jiggly caliente death",
-                "search_volume": "1K+\n\n1,000%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "munster hurling championship",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "10 hours ago\n\nLasted 10 hr",
+                "started": "8 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
             },
             {
                 "title": "inter miami vs fc dallas",
+                "search_volume": "200+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "lakers",
+                "search_volume": "200+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "timberwolves vs lakers",
                 "search_volume": "200+\n\n1,000%",
                 "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
@@ -59,25 +59,25 @@
             {
                 "title": "boavista vs sporting",
                 "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "lakers",
-                "search_volume": "200+\n\n800%",
-                "started": "20 minutes ago\ntrending_up\nActive",
+                "title": "jiggly caliente death",
+                "search_volume": "1K+\n\n900%",
+                "started": "7 hours ago\n\nLasted 7 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "clare v waterford",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "13 hours ago\n\nLasted 10 hr",
                 "related_topics": ""
             },
             {
                 "title": "scott mctominay",
                 "search_volume": "200+\n\n800%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "timberwolves vs lakers",
-                "search_volume": "200+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -93,27 +93,15 @@
                 "related_topics": ""
             },
             {
-                "title": "jennifer lopez",
-                "search_volume": "100+\n\n700%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "donegal v down",
                 "search_volume": "2K+\n\n1,000%",
                 "started": "13 hours ago\n\nLasted 9 hr",
                 "related_topics": ""
             },
             {
-                "title": "louis theroux",
-                "search_volume": "500+\n\n1,000%",
-                "started": "2 hours ago\n\nLasted 1 hr",
-                "related_topics": ""
-            },
-            {
                 "title": "london marathon 2025 tracker",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "13 hours ago\n\nLasted 10 hr",
+                "started": "14 hours ago\n\nLasted 10 hr",
                 "related_topics": ""
             },
             {
@@ -123,9 +111,15 @@
                 "related_topics": ""
             },
             {
-                "title": "david tennant",
-                "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\n\nLasted 1 hr",
+                "title": "louis theroux",
+                "search_volume": "500+\n\n1,000%",
+                "started": "2 hours ago\n\nLasted 1 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "ryanair",
+                "search_volume": "1K+\n\n50%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -141,25 +135,25 @@
                 "related_topics": ""
             },
             {
-                "title": "judd trump",
-                "search_volume": "200+\n\n800%",
-                "started": "2 hours ago\n\nLasted 1 hr",
-                "related_topics": ""
-            },
-            {
                 "title": "london marathon results",
                 "search_volume": "2K+\n\n1,000%",
                 "started": "9 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
+            },
+            {
+                "title": "david tennant",
+                "search_volume": "200+\n\n1,000%",
+                "started": "1 hour ago\n\nLasted 1 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "inter vs roma",
+                "search_volume": "1K+\n\n1,000%",
+                "started": "10 hours ago\n\nLasted 4 hr",
+                "related_topics": ""
             }
         ],
         "GB": [
-            {
-                "title": "liverpool vs tottenham",
-                "search_volume": "500K+\n\n1,000%",
-                "started": "23 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
             {
                 "title": "bournemouth vs man united",
                 "search_volume": "200K+\n\n1,000%",
@@ -187,31 +181,37 @@
             {
                 "title": "jet2 flight diverted",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "12 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "giza pyramids",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "arne slot",
+                "search_volume": "500K+\n\n1,000%",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "napoli vs torino",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "england may snow forecast",
-                "search_volume": "50K+\n\n1,000%",
-                "started": "12 hours ago\ntrending_up\nActive",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "serie a",
                 "search_volume": "20K+\n\n100%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "england may snow forecast",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -221,9 +221,15 @@
                 "related_topics": ""
             },
             {
+                "title": "eilish mccolgan",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "15 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "boavista vs sporting",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -233,26 +239,26 @@
                 "related_topics": ""
             },
             {
-                "title": "eilish mccolgan",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "14 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "london marathon times",
-                "search_volume": "100K+\n\n400%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "title": "marathon",
+                "search_volume": "100K+\n\n300%",
+                "started": "17 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "louis theroux",
-                "search_volume": "10K+\n\n1,000%",
+                "search_volume": "10K+\n\n900%",
                 "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
+                "title": "inter miami vs fc dallas",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "lyon vs arsenal",
-                "search_volume": "50K+\n\n1,000%",
+                "search_volume": "20K+\n\n1,000%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -263,12 +269,6 @@
                 "related_topics": ""
             },
             {
-                "title": "inter miami vs fc dallas",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "manchester marathon results",
                 "search_volume": "20K+\n\n800%",
                 "started": "11 hours ago\ntrending_up\nActive",
@@ -276,7 +276,7 @@
             },
             {
                 "title": "suicide squad",
-                "search_volume": "2K+\n\n1,000%",
+                "search_volume": "5K+\n\n1,000%",
                 "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -287,41 +287,41 @@
                 "related_topics": ""
             },
             {
-                "title": "serco immigrants",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "title": "omaze",
+                "search_volume": "10K+\n\n200%",
+                "started": "15 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "marco rose",
+                "search_volume": "5K+\n\n500%",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "mo salah",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "marco rose",
-                "search_volume": "5K+\n\n600%",
-                "started": "16 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
         "US": [
             {
-                "title": "vancouver",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "title": "lakers vs timberwolves",
+                "search_volume": "500K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "lakers vs timberwolves",
+                "title": "vancouver attack",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "jiggly caliente death",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "10 hours ago\ntrending_up\nActive",
+                "started": "11 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -333,19 +333,37 @@
             {
                 "title": "jeff ulbrich",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "liverpool vs tottenham",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "anthony edwards",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "lakers vs timberwolves match player stats",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "sandy cay south china sea",
-                "search_volume": "20K+\n\n900%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bill belichick",
+                "search_volume": "50K+\n\n900%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -357,25 +375,37 @@
             {
                 "title": "nottm forest vs man city",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "bill belichick",
-                "search_volume": "20K+\n\n900%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "title": "hurricanes vs devils",
+                "search_volume": "20K+\n\n600%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "columbus day",
+                "search_volume": "10K+\n\n500%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "blue jays vs yankees",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "anthony edwards",
-                "search_volume": "20K+\n\n1,000%",
+                "title": "lebron james",
+                "search_volume": "20K+\n\n700%",
                 "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "ju\u00e1rez - pumas",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "30 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -385,51 +415,15 @@
                 "related_topics": ""
             },
             {
-                "title": "lakers vs timberwolves match player stats",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "knicks vs pistons",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "5 hours ago\n\nLasted 5 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "columbus day",
-                "search_volume": "10K+\n\n400%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "rui hachimura",
                 "search_volume": "10K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "river plate vs boca juniors",
-                "search_volume": "20K+\n\n300%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "austin reaves",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "whitecaps - minnesota",
-                "search_volume": "10K+\n\n200%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "canada elections",
-                "search_volume": "20K+\n\n200%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "title": "knicks vs pistons",
+                "search_volume": "200K+\n\n1,000%",
+                "started": "6 hours ago\n\nLasted 5 hr",
                 "related_topics": ""
             },
             {
@@ -439,21 +433,27 @@
                 "related_topics": ""
             },
             {
-                "title": "nj devils",
-                "search_volume": "10K+\n\n300%",
+                "title": "austin reaves",
+                "search_volume": "10K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "hurricanes vs devils",
-                "search_volume": "10K+\n\n500%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "canada elections",
+                "search_volume": "20K+\n\n200%",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "lebron james",
-                "search_volume": "10K+\n\n500%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "austin cindric",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "30 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "myrtle beach shooting",
+                "search_volume": "10K+\n\n200%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
