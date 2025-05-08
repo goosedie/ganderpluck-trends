@@ -1,47 +1,53 @@
 {
-    "timestamp": "2025-05-08 18:30:27",
+    "timestamp": "2025-05-08 19:00:28",
     "trends": {
         "IE": [
             {
                 "title": "robert prevost",
-                "search_volume": "50K+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
+                "search_volume": "100K+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "lions squad announcement",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "12 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "joe duffy",
+                "title": "who is the new pope 2025",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "parolin",
-                "search_volume": "1K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "robert prevost liberal",
-                "search_volume": "1K+\n\n1,000%",
-                "started": "10 minutes ago\ntrending_up\nActive",
+                "title": "joe duffy",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "pbks vs dc",
+                "title": "sky news",
+                "search_volume": "5K+\n\n200%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "rte",
+                "search_volume": "2K+\n\n100%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "pope john paul ii",
                 "search_volume": "500+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "michael healy rae seeks injunction",
-                "search_volume": "2K+\n\n700%",
-                "started": "12 hours ago\ntrending_up\nActive",
+                "title": "bbc news",
+                "search_volume": "2K+\n\n100%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -51,119 +57,107 @@
                 "related_topics": ""
             },
             {
-                "title": "bbc news",
-                "search_volume": "1K+\n\n200%",
+                "title": "parolin",
+                "search_volume": "1K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "luis antonio tagle",
+                "title": "pope leo 13",
+                "search_volume": "500+\n\n1,000%",
+                "started": "20 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "michael healy rae seeks injunction",
+                "search_volume": "2K+\n\n700%",
+                "started": "13 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "news",
+                "search_volume": "1K+\n\n100%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "sky news live",
                 "search_volume": "500+\n\n900%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "nuevo papa",
-                "search_volume": "500+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "rte news live",
-                "search_volume": "500+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "pizzaballa",
-                "search_volume": "500+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "vatican news",
-                "search_volume": "500+\n\n800%",
+                "title": "the pope",
+                "search_volume": "200+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "news",
-                "search_volume": "500+\n\n100%",
-                "started": "50 minutes ago\ntrending_up\nActive",
+                "title": "nowy papiez",
+                "search_volume": "500+\n\n1,000%",
+                "started": "30 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "novo papa",
-                "search_volume": "200+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "bbc",
-                "search_volume": "500+\n\n200%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "breaking news",
-                "search_volume": "500+\n\n200%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "swiss guard",
-                "search_volume": "200+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "nuovo papa",
-                "search_volume": "200+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "psg vs arsenal",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "23 hours ago\n\nLasted 14 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "cardinal sarah",
-                "search_volume": "100+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
+                "title": "vatican news",
+                "search_volume": "500+\n\n700%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "trump pope",
                 "search_volume": "200+\n\n1,000%",
-                "started": "10 minutes ago\ntrending_up\nActive",
+                "started": "40 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "matteo zuppi",
-                "search_volume": "100+\n\n600%",
+                "title": "novo papa",
+                "search_volume": "200+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "nuevo papa",
+                "search_volume": "200+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "saint leo",
+                "search_volume": "200+\n\n1,000%",
                 "started": "20 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "spain weather warnings",
-                "search_volume": "100+\n\n700%",
-                "started": "10 minutes ago\ntrending_up\nActive",
+                "title": "pizzaballa",
+                "search_volume": "500+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "luis antonio tagle",
+                "search_volume": "200+\n\n500%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "tagle",
+                "search_volume": "200+\n\n900%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "pope john paul i",
+                "search_volume": "200+\n\n1,000%",
+                "started": "30 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
         "GB": [
             {
                 "title": "robert prevost",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "robert francis prevost",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "20 minutes ago\ntrending_up\nActive",
+                "search_volume": "500K+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -174,14 +168,14 @@
             },
             {
                 "title": "bbc news",
-                "search_volume": "100K+\n\n100%",
+                "search_volume": "200K+\n\n100%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "lions squad",
-                "search_volume": "50K+\n\n1,000%",
-                "started": "10 hours ago\ntrending_up\nActive",
+                "search_volume": "100K+\n\n1,000%",
+                "started": "11 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -191,15 +185,15 @@
                 "related_topics": ""
             },
             {
-                "title": "pbks vs dc",
+                "title": "canned beans recalled",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "canned beans recalled",
+                "title": "pbks vs dc",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -209,57 +203,69 @@
                 "related_topics": ""
             },
             {
+                "title": "nowy papiez",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "dominique mamberti",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "40 minutes ago\ntrending_up\nActive",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "bristol city vs sheffield united timeline",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "tagle",
+                "title": "cardinal tagle",
                 "search_volume": "5K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "papiez",
-                "search_volume": "5K+\n\n700%",
+                "title": "pope john paul ii",
+                "search_volume": "5K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "pope names",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "lahore",
+                "search_volume": "10K+\n\n300%",
+                "started": "14 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "ochuko ojiri",
+                "search_volume": "10K+\n\n800%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "ve day",
                 "search_volume": "200K+\n\n400%",
-                "started": "12 hours ago\n\nLasted 7 hr",
+                "started": "13 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
             },
             {
-                "title": "ochuko ojiri",
-                "search_volume": "5K+\n\n900%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "lahore",
-                "search_volume": "5K+\n\n300%",
-                "started": "14 hours ago\ntrending_up\nActive",
+                "title": "nuovo papa",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "coleen rooney",
                 "search_volume": "5K+\n\n500%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "saint leo",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -269,75 +275,69 @@
                 "related_topics": ""
             },
             {
-                "title": "psg vs arsenal",
-                "search_volume": "500K+\n\n1,000%",
-                "started": "23 hours ago\n\nLasted 15 hr",
+                "title": "trump pope",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "nuovo papa",
-                "search_volume": "2K+\n\n900%",
+                "title": "emmerdale",
+                "search_volume": "2K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "swiss guard",
+                "title": "pope benedict",
                 "search_volume": "2K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "salford city",
-                "search_volume": "5K+\n\n1,000%",
+                "search_volume": "5K+\n\n900%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "lloyd kelly",
-                "search_volume": "5K+\n\n300%",
-                "started": "21 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "peshawar zalmi vs karachi kings",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "whoop 5.0",
+                "search_volume": "2K+\n\n500%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
         "US": [
             {
                 "title": "robert prevost",
-                "search_volume": "1M+\n\n1,000%",
-                "started": "40 minutes ago\ntrending_up\nActive",
+                "search_volume": "5M+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "robert francis prevost",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "cnn",
-                "search_volume": "200K+\n\n200%",
+                "title": "nuevo papa",
+                "search_volume": "100K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "casey means",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "3 doors down",
+                "title": "cnn",
+                "search_volume": "100K+\n\n300%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "tyre nichols",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "24 hours ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "nuevo papa",
+                "title": "tagle",
                 "search_volume": "50K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
@@ -349,15 +349,9 @@
                 "related_topics": ""
             },
             {
-                "title": "luis antonio tagle",
-                "search_volume": "20K+\n\n800%",
+                "title": "pope benedict",
+                "search_volume": "20K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "tyre nichols",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -368,7 +362,7 @@
             },
             {
                 "title": "dominique mamberti",
-                "search_volume": "10K+\n\n1,000%",
+                "search_volume": "20K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -379,9 +373,15 @@
                 "related_topics": ""
             },
             {
-                "title": "pbks vs dc",
+                "title": "bbc news",
+                "search_volume": "50K+\n\n200%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "cnn live",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -391,45 +391,51 @@
                 "related_topics": ""
             },
             {
-                "title": "pope names",
+                "title": "saint leo",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "pope francis real name",
+                "search_volume": "10K+\n\n600%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "news",
+                "search_volume": "50K+\n\n75%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "cardinal sarah",
                 "search_volume": "10K+\n\n900%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "federal lands sale",
-                "search_volume": "20K+\n\n800%",
-                "started": "11 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "pope benedict",
-                "search_volume": "10K+\n\n1,000%",
+                "title": "bbc",
+                "search_volume": "20K+\n\n200%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "bitcoin",
-                "search_volume": "50K+\n\n100%",
-                "started": "14 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "swiss guard",
-                "search_volume": "5K+\n\n1,000%",
+                "title": "new york times",
+                "search_volume": "20K+\n\n100%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "fox news live",
-                "search_volume": "20K+\n\n600%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "liam payne",
+                "search_volume": "20K+\n\n300%",
+                "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "pierbattista pizzaballa",
-                "search_volume": "10K+\n\n400%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "pbks vs dc",
+                "search_volume": "20K+\n\n900%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -439,21 +445,15 @@
                 "related_topics": ""
             },
             {
-                "title": "liam payne",
-                "search_volume": "20K+\n\n200%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "title": "fox news live",
+                "search_volume": "20K+\n\n900%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "news",
-                "search_volume": "20K+\n\n75%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "derek shelton",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
+                "title": "bitcoin",
+                "search_volume": "50K+\n\n100%",
+                "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
