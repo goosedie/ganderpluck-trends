@@ -1,23 +1,23 @@
 {
-    "timestamp": "2025-06-05 07:00:27",
+    "timestamp": "2025-06-05 07:30:27",
     "trends": {
         "IE": [
             {
                 "title": "germany vs portugal",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "12 hours ago\ntrending_up\nActive",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "portugal",
                 "search_volume": "2K+\n\n700%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "12 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "portugal fc",
-                "search_volume": "1K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "title": "morten harket",
+                "search_volume": "1K+\n\n900%",
+                "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -27,15 +27,27 @@
                 "related_topics": ""
             },
             {
+                "title": "portugal fc",
+                "search_volume": "1K+\n\n1,000%",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "ryanair shannon airport new routes",
-                "search_volume": "500+\n\n500%",
+                "search_volume": "500+\n\n400%",
                 "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "sony playstation",
                 "search_volume": "200+\n\n300%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "rte investigates",
+                "search_volume": "5K+\n\n600%",
+                "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -45,9 +57,27 @@
                 "related_topics": ""
             },
             {
-                "title": "emeis ireland",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "22 hours ago\n\nLasted 21 hr",
+                "title": "wicked trailer",
+                "search_volume": "200+\n\n300%",
+                "started": "30 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "independent",
+                "search_volume": "100+\n\n50%",
+                "started": "20 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "switch 2",
+                "search_volume": "200+\n\n200%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "wordle hint",
+                "search_volume": "100+\n\n75%",
+                "started": "20 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -57,27 +87,21 @@
                 "related_topics": ""
             },
             {
+                "title": "roland garros",
+                "search_volume": "2K+\n\n100%",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "cavan euromillions win",
                 "search_volume": "1K+\n\n1,000%",
                 "started": "9 hours ago\n\nLasted 8 hr",
                 "related_topics": ""
             },
             {
-                "title": "morten harket",
-                "search_volume": "1K+\n\n900%",
-                "started": "14 hours ago\n\nLasted 13 hr",
-                "related_topics": ""
-            },
-            {
                 "title": "what time is ginny and georgia coming out",
                 "search_volume": "500+\n\n500%",
                 "started": "7 hours ago\n\nLasted 4 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "lois boisson",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "17 hours ago\n\nLasted 11 hr",
                 "related_topics": ""
             },
             {
@@ -89,31 +113,25 @@
             {
                 "title": "met \u00e9ireann",
                 "search_volume": "1K+\n\n600%",
-                "started": "17 hours ago\n\nLasted 17 hr",
+                "started": "18 hours ago\n\nLasted 17 hr",
                 "related_topics": ""
             },
             {
                 "title": "nick woltemade",
                 "search_volume": "500+\n\n1,000%",
-                "started": "10 hours ago\n\nLasted 2 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "switch 2",
-                "search_volume": "100+\n\n100%",
-                "started": "6 hours ago\n\nLasted 6 hr",
+                "started": "11 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
                 "title": "michelle mone",
                 "search_volume": "500+\n\n1,000%",
-                "started": "9 hours ago\n\nLasted 1 hr",
+                "started": "10 hours ago\n\nLasted 1 hr",
                 "related_topics": ""
             },
             {
                 "title": "germany",
                 "search_volume": "200+\n\n900%",
-                "started": "10 hours ago\n\nLasted 2 hr",
+                "started": "11 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
@@ -125,31 +143,13 @@
             {
                 "title": "dylan scannell",
                 "search_volume": "500+\n\n700%",
-                "started": "14 hours ago\n\nLasted 2 hr",
+                "started": "15 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
                 "title": "conceicao",
                 "search_volume": "200+\n\n900%",
-                "started": "8 hours ago\n\nLasted 7 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "wicked for good trailer",
-                "search_volume": "200+\n\n500%",
-                "started": "7 hours ago\n\nLasted 1 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "leaving cert english",
-                "search_volume": "500+\n\n1,000%",
-                "started": "13 hours ago\n\nLasted 1 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "jannik sinner",
-                "search_volume": "200+\n\n700%",
-                "started": "15 hours ago\n\nLasted 2 hr",
+                "started": "9 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
             }
         ],
@@ -169,19 +169,19 @@
             {
                 "title": "wicked movie trailer",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "what time does ginny and georgia come out",
+                "search_volume": "20K+\n\n800%",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "hmrc phishing attack",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "what time does ginny and georgia come out",
-                "search_volume": "20K+\n\n700%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -193,13 +193,19 @@
             {
                 "title": "meghan markle",
                 "search_volume": "10K+\n\n400%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "cameron diaz",
-                "search_volume": "10K+\n\n700%",
-                "started": "24 hours ago\ntrending_up\nActive",
+                "title": "james bond game 007 first light",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "djokovic",
+                "search_volume": "50K+\n\n500%",
+                "started": "12 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -211,25 +217,19 @@
             {
                 "title": "mortgage quote",
                 "search_volume": "5K+\n\n500%",
-                "started": "20 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "james bond game 007 first light",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "djokovic",
-                "search_volume": "50K+\n\n500%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "online lottery",
                 "search_volume": "5K+\n\n500%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "new kia sportage",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -239,39 +239,39 @@
                 "related_topics": ""
             },
             {
-                "title": "new kia sportage",
-                "search_volume": "10K+\n\n1,000%",
+                "title": "rick harrison",
+                "search_volume": "2K+\n\n300%",
                 "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "rick harrison",
-                "search_volume": "2K+\n\n300%",
+                "title": "germany",
+                "search_volume": "5K+\n\n900%",
                 "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "michael carrick",
-                "search_volume": "10K+\n\n800%",
-                "started": "17 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n700%",
+                "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "sarah pochin",
                 "search_volume": "5K+\n\n300%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "19 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "france vs spain",
+                "search_volume": "5K+\n\n200%",
+                "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "halle bailey",
                 "search_volume": "2K+\n\n300%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "oilers vs panthers",
-                "search_volume": "2K+\n\n400%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -281,27 +281,27 @@
                 "related_topics": ""
             },
             {
-                "title": "owen cooper",
-                "search_volume": "2K+\n\n400%",
-                "started": "12 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "katherine ryan",
+                "title": "oilers vs panthers",
                 "search_volume": "2K+\n\n300%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "nintendo switch",
                 "search_volume": "2K+\n\n200%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "edmund white",
-                "search_volume": "2K+\n\n100%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "title": "owen cooper",
+                "search_volume": "2K+\n\n400%",
+                "started": "13 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "trump travel ban",
+                "search_volume": "2K+\n\n300%",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
@@ -313,21 +313,21 @@
                 "related_topics": ""
             },
             {
-                "title": "panthers vs oilers",
-                "search_volume": "500K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "travel ban",
                 "search_volume": "100K+\n\n1,000%",
                 "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
+                "title": "panthers vs oilers",
+                "search_volume": "500K+\n\n1,000%",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "karine jean-pierre",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "14 hours ago\ntrending_up\nActive",
+                "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -338,26 +338,26 @@
             },
             {
                 "title": "wicked movie trailer",
-                "search_volume": "100K+\n\n700%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "search_volume": "50K+\n\n600%",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "yulissa love island",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "halle bailey",
                 "search_volume": "50K+\n\n900%",
-                "started": "10 hours ago\ntrending_up\nActive",
+                "started": "11 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "meghan markle",
                 "search_volume": "20K+\n\n400%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -381,37 +381,31 @@
             {
                 "title": "ruby bridges",
                 "search_volume": "20K+\n\n400%",
-                "started": "12 hours ago\ntrending_up\nActive",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "marvel tokon",
-                "search_volume": "20K+\n\n500%",
+                "title": "marvel tokon fighting souls",
+                "search_volume": "20K+\n\n300%",
                 "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "final fantasy tactics",
-                "search_volume": "20K+\n\n500%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n600%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "mortal kombat legacy collection",
                 "search_volume": "10K+\n\n300%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "ground beef recall whole foods",
-                "search_volume": "10K+\n\n400%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "francisco concei\u00e7\u00e3o",
                 "search_volume": "100K+\n\n300%",
-                "started": "9 hours ago\ntrending_up\nActive",
+                "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -422,19 +416,13 @@
             },
             {
                 "title": "silent hill f",
-                "search_volume": "10K+\n\n400%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n300%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "campbell hall",
                 "search_volume": "5K+\n\n200%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "wayne gretzky",
-                "search_volume": "20K+\n\n1,000%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -445,15 +433,27 @@
                 "related_topics": ""
             },
             {
-                "title": "jordan ott",
-                "search_volume": "20K+\n\n500%",
-                "started": "13 hours ago\ntrending_up\nActive",
+                "title": "ground beef recall whole foods",
+                "search_volume": "10K+\n\n300%",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "nioh 3",
-                "search_volume": "10K+\n\n300%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n400%",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "thug life review",
+                "search_volume": "5K+\n\n200%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "jordan ott",
+                "search_volume": "20K+\n\n400%",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
