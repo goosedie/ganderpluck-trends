@@ -1,23 +1,29 @@
 {
-    "timestamp": "2025-06-08 21:30:28",
+    "timestamp": "2025-06-08 22:00:28",
     "trends": {
         "IE": [
             {
                 "title": "portugal vs spain",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "weather tomorrow",
-                "search_volume": "10K+\n\n100%",
-                "started": "50 minutes ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n100%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "stephen graham",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "new covid strain symptoms",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "11 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -27,9 +33,9 @@
                 "related_topics": ""
             },
             {
-                "title": "new covid strain symptoms",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "title": "greta thunberg",
+                "search_volume": "5K+\n\n300%",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -45,9 +51,15 @@
                 "related_topics": ""
             },
             {
-                "title": "greta thunberg",
-                "search_volume": "5K+\n\n300%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "title": "nuno mendes",
+                "search_volume": "1K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "shane lowry",
+                "search_volume": "2K+\n\n200%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -57,37 +69,19 @@
                 "related_topics": ""
             },
             {
-                "title": "shane lowry",
-                "search_volume": "2K+\n\n300%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "oyarzabal",
-                "search_volume": "1K+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "portugal",
-                "search_volume": "1K+\n\n900%",
+                "search_volume": "1K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "spain fc",
+                "title": "portugal fc",
                 "search_volume": "500+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "roland garros",
-                "search_volume": "5K+\n\n200%",
-                "started": "7 hours ago\n\nLasted 7 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "portugal fc",
+                "title": "spain fc",
                 "search_volume": "500+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
@@ -99,18 +93,6 @@
                 "related_topics": ""
             },
             {
-                "title": "germany vs france",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "8 hours ago\n\nLasted 8 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "kenmare lotto win",
-                "search_volume": "500+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "nico williams",
                 "search_volume": "500+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
@@ -118,46 +100,64 @@
             },
             {
                 "title": "roberto martinez",
-                "search_volume": "200+\n\n1,000%",
+                "search_volume": "500+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "golf leaderboard",
-                "search_volume": "200+\n\n200%",
-                "started": "50 minutes ago\ntrending_up\nActive",
+                "title": "roland garros",
+                "search_volume": "5K+\n\n200%",
+                "started": "7 hours ago\n\nLasted 7 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "germany vs france",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "8 hours ago\n\nLasted 8 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "mikel oyarzabal",
+                "search_volume": "1K+\n\n900%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "cucurella",
                 "search_volume": "200+\n\n1,000%",
-                "started": "50 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "love island 2025",
-                "search_volume": "200+\n\n200%",
-                "started": "30 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "the survivors netflix",
-                "search_volume": "200+\n\n200%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
+                "title": "barry mcguigan",
+                "search_volume": "500+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "dean huijsen",
-                "search_volume": "200+\n\n800%",
+                "search_volume": "200+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "isco",
+                "search_volume": "200+\n\n1,000%",
+                "started": "20 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "golf leaderboard",
+                "search_volume": "500+\n\n200%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
         "GB": [
             {
-                "title": "spain v portugal",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "13 hours ago\ntrending_up\nActive",
+                "title": "nations league",
+                "search_volume": "200K+\n\n800%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -167,9 +167,9 @@
                 "related_topics": ""
             },
             {
-                "title": "weather tomorrow",
-                "search_volume": "100K+\n\n75%",
-                "started": "40 minutes ago\ntrending_up\nActive",
+                "title": "rebecca ryan",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -179,15 +179,9 @@
                 "related_topics": ""
             },
             {
-                "title": "rebecca ryan",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "sainsbury's electronic shelf labels",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "title": "weather tomorrow",
+                "search_volume": "100K+\n\n75%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -197,38 +191,32 @@
                 "related_topics": ""
             },
             {
-                "title": "oyarzabal",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "greta thunberg",
                 "search_volume": "20K+\n\n300%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "when does love island start 2025",
-                "search_volume": "20K+\n\n300%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "title": "sainsbury's electronic shelf labels",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "xbox handheld",
+                "title": "brinks mat robbery",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "nuno mendes",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "itv",
                 "search_volume": "20K+\n\n800%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "los angeles",
-                "search_volume": "20K+\n\n500%",
-                "started": "22 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "itvx",
-                "search_volume": "10K+\n\n500%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -239,27 +227,75 @@
                 "related_topics": ""
             },
             {
-                "title": "itv",
+                "title": "oyarzabal",
                 "search_volume": "10K+\n\n1,000%",
                 "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "jared leto",
-                "search_volume": "10K+\n\n700%",
+                "title": "itvx",
+                "search_volume": "20K+\n\n400%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "xbox handheld",
+                "search_volume": "20K+\n\n900%",
+                "started": "4 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "los angeles",
+                "search_volume": "20K+\n\n500%",
                 "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "nico williams",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "when does love island start 2025",
+                "search_volume": "20K+\n\n300%",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "love island",
-                "search_volume": "10K+\n\n200%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "title": "nico williams",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "black ops 7",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "uriah rennie",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "nat wolff",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "roberto martinez",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "dean huijsen",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "xbox showcase 2025",
+                "search_volume": "20K+\n\n400%",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -267,55 +303,13 @@
                 "search_volume": "10K+\n\n1,000%",
                 "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
-            },
-            {
-                "title": "xbox showcase 2025",
-                "search_volume": "20K+\n\n500%",
-                "started": "20 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "black ops 7",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "brinks mat robbery",
-                "search_volume": "5K+\n\n800%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "roberto martinez",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "nat wolff",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "andre agassi",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
             }
         ],
         "US": [
             {
                 "title": "where to watch portugal national football team vs spain national football team",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "carlos alcaraz",
-                "search_volume": "1M+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "search_volume": "500K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -325,9 +319,15 @@
                 "related_topics": ""
             },
             {
+                "title": "carlos alcaraz",
+                "search_volume": "1M+\n\n1,000%",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "portugal - espa\u00f1a",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -345,7 +345,7 @@
             {
                 "title": "ben askren",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -355,51 +355,75 @@
                 "related_topics": ""
             },
             {
-                "title": "alemania - francia",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "xbox handheld",
-                "search_volume": "50K+\n\n800%",
+                "title": "portugal vs. espa\u00f1a",
+                "search_volume": "50K+\n\n1,000%",
                 "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "black ops 7",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "ufc 316 results",
-                "search_volume": "500K+\n\n600%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "title": "xbox handheld",
+                "search_volume": "50K+\n\n900%",
+                "started": "4 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "alemania - francia",
+                "search_volume": "100K+\n\n1,000%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "nat wolff",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "ufc 316 results",
+                "search_volume": "500K+\n\n500%",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "brittany renner",
                 "search_volume": "20K+\n\n600%",
-                "started": "16 hours ago\ntrending_up\nActive",
+                "started": "17 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "edward r murrow",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "23 hours ago\ntrending_up\nActive",
+                "started": "24 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "persona 4 revival",
                 "search_volume": "20K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "nuno mendes",
+                "search_volume": "10K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "fox sports",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "lynx vs wings",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -415,45 +439,21 @@
                 "related_topics": ""
             },
             {
-                "title": "lynx vs wings",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "fox sports",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "american airlines emergency landing",
-                "search_volume": "20K+\n\n700%",
-                "started": "13 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "grounded 2",
-                "search_volume": "5K+\n\n800%",
+                "search_volume": "5K+\n\n600%",
                 "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "spain fc",
-                "search_volume": "10K+\n\n900%",
+                "title": "sam burns",
+                "search_volume": "5K+\n\n700%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "nico williams",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "roman anthony",
-                "search_volume": "20K+\n\n400%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
