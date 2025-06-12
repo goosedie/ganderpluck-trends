@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-06-12 16:30:27",
+    "timestamp": "2025-06-12 17:00:27",
     "trends": {
         "IE": [
             {
@@ -10,68 +10,74 @@
             },
             {
                 "title": "us open",
-                "search_volume": "10K+\n\n800%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "search_volume": "5K+\n\n800%",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "us open golf",
+                "search_volume": "5K+\n\n800%",
+                "started": "9 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "us open leaderboard",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "brian wilson",
                 "search_volume": "10K+\n\n1,000%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "annie mccarrick",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "us open leaderboard",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "ryanair airport chaos",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "rory mcilroy",
-                "search_volume": "1K+\n\n700%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "search_volume": "2K+\n\n700%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "thunderstorm weather warnings ireland",
-                "search_volume": "20K+\n\n700%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n800%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "india",
                 "search_volume": "500+\n\n1,000%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "ireland vs west indies",
-                "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "search_volume": "500+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "golf leaderboard",
-                "search_volume": "200+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "callum turner",
+                "search_volume": "100+\n\n1,000%",
+                "started": "20 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "department of social protection",
-                "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "emma raducanu",
+                "search_volume": "100+\n\n600%",
+                "started": "20 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -81,33 +87,33 @@
                 "related_topics": ""
             },
             {
-                "title": "oakmont country club",
-                "search_volume": "500+\n\n200%",
-                "started": "3 hours ago\n\nLasted 3 hr",
+                "title": "department of social protection",
+                "search_volume": "200+\n\n1,000%",
+                "started": "1 hour ago\n\nLasted 1 hr",
                 "related_topics": ""
             },
             {
                 "title": "bbc news",
                 "search_volume": "2K+\n\n100%",
-                "started": "5 hours ago\n\nLasted 2 hr",
+                "started": "6 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
                 "title": "skynews",
                 "search_volume": "500+\n\n300%",
-                "started": "5 hours ago\n\nLasted 3 hr",
+                "started": "6 hours ago\n\nLasted 3 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "pacers vs thunder",
+                "search_volume": "1K+\n\n900%",
+                "started": "14 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
             },
             {
                 "title": "trent alexander-arnold",
                 "search_volume": "200+\n\n700%",
                 "started": "3 hours ago\n\nLasted 2 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "pacers vs thunder",
-                "search_volume": "1K+\n\n900%",
-                "started": "13 hours ago\n\nLasted 7 hr",
                 "related_topics": ""
             },
             {
@@ -119,7 +125,7 @@
             {
                 "title": "netflix",
                 "search_volume": "1K+\n\n100%",
-                "started": "5 hours ago\n\nLasted 2 hr",
+                "started": "6 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
@@ -137,19 +143,13 @@
             {
                 "title": "iran",
                 "search_volume": "200+\n\n300%",
-                "started": "16 hours ago\n\nLasted 9 hr",
+                "started": "17 hours ago\n\nLasted 9 hr",
                 "related_topics": ""
             },
             {
                 "title": "sabrina carpenter",
                 "search_volume": "500+\n\n300%",
-                "started": "22 hours ago\n\nLasted 14 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "dart dublin",
-                "search_volume": "1K+\n\n500%",
-                "started": "19 hours ago\n\nLasted 10 hr",
+                "started": "23 hours ago\n\nLasted 14 hr",
                 "related_topics": ""
             }
         ],
@@ -157,7 +157,7 @@
             {
                 "title": "plane crash",
                 "search_volume": "1M+\n\n1,000%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -167,20 +167,14 @@
                 "related_topics": ""
             },
             {
-                "title": "bbc news",
-                "search_volume": "200K+\n\n100%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "us open leaderboard",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "heather watson",
-                "search_volume": "10K+\n\n1,000%",
+                "title": "callum turner",
+                "search_volume": "20K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -192,8 +186,20 @@
             },
             {
                 "title": "jolly rancher recall",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "ireland vs west indies",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "heather watson",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -209,33 +215,39 @@
                 "related_topics": ""
             },
             {
-                "title": "ireland vs west indies",
+                "title": "sramkova",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "callum turner",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "race across the world winners",
-                "search_volume": "50K+\n\n900%",
-                "started": "17 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "ananda lewis",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "16 hours ago\ntrending_up\nActive",
+                "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "chris wilder",
-                "search_volume": "5K+\n\n700%",
+                "search_volume": "5K+\n\n800%",
                 "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bbc news",
+                "search_volume": "200K+\n\n100%",
+                "started": "6 hours ago\n\nLasted 6 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "ananda lewis",
+                "search_volume": "10K+\n\n900%",
+                "started": "17 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bbc race across the world winners",
+                "search_volume": "50K+\n\n600%",
+                "started": "5 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "emma raducanu",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "30 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -246,66 +258,60 @@
             },
             {
                 "title": "trent alexander-arnold",
-                "search_volume": "5K+\n\n900%",
+                "search_volume": "10K+\n\n800%",
                 "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "silento",
-                "search_volume": "5K+\n\n400%",
-                "started": "19 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "news today",
-                "search_volume": "5K+\n\n200%",
-                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "harris yulin",
                 "search_volume": "5K+\n\n600%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "diana shnaider",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "title": "silento",
+                "search_volume": "5K+\n\n400%",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "rory mcilroy",
                 "search_volume": "2K+\n\n400%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "airbus",
-                "search_volume": "2K+\n\n400%",
+                "title": "diana shnaider",
+                "search_volume": "5K+\n\n1,000%",
                 "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "breastfeeding karen millen",
-                "search_volume": "2K+\n\n900%",
-                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "santi cazorla",
                 "search_volume": "5K+\n\n300%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "ndtv",
-                "search_volume": "2K+\n\n500%",
+                "title": "world cup of darts 2025",
+                "search_volume": "5K+\n\n200%",
+                "started": "22 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "airbus",
+                "search_volume": "2K+\n\n400%",
                 "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
         "US": [
+            {
+                "title": "air india crash",
+                "search_volume": "1M+\n\n1,000%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
             {
                 "title": "brian wilson",
                 "search_volume": "1M+\n\n1,000%",
@@ -313,21 +319,15 @@
                 "related_topics": ""
             },
             {
-                "title": "air india crash",
-                "search_volume": "1M+\n\n1,000%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "ananda lewis",
                 "search_volume": "500K+\n\n1,000%",
-                "started": "18 hours ago\ntrending_up\nActive",
+                "started": "19 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "us open 2025",
                 "search_volume": "100K+\n\n400%",
-                "started": "5 hours ago\ntrending_up\nActive",
+                "started": "6 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -339,25 +339,25 @@
             {
                 "title": "us open leaderboard",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "silento",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "sabrina carpenter new album",
-                "search_volume": "100K+\n\n400%",
+                "search_volume": "100K+\n\n500%",
                 "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "harris yulin",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -368,25 +368,25 @@
             },
             {
                 "title": "harvey weinstein",
-                "search_volume": "50K+\n\n700%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "search_volume": "50K+\n\n800%",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "callum turner",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "the summer i turned pretty season 3",
                 "search_volume": "20K+\n\n300%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "person who loves attention nyt",
-                "search_volume": "20K+\n\n500%",
+                "search_volume": "20K+\n\n400%",
                 "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -394,6 +394,12 @@
                 "title": "steven universe lars of the stars",
                 "search_volume": "20K+\n\n500%",
                 "started": "20 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bryson dechambeau",
+                "search_volume": "10K+\n\n200%",
+                "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -405,13 +411,19 @@
             {
                 "title": "oracle stock",
                 "search_volume": "20K+\n\n200%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "bryson dechambeau",
-                "search_volume": "10K+\n\n200%",
-                "started": "17 hours ago\ntrending_up\nActive",
+                "title": "gerard butler",
+                "search_volume": "10K+\n\n300%",
+                "started": "14 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "carey terrance",
+                "search_volume": "5K+\n\n700%",
+                "started": "1 hour ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -422,14 +434,8 @@
             },
             {
                 "title": "substack",
-                "search_volume": "10K+\n\n100%",
-                "started": "21 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "chris robinson actor",
-                "search_volume": "20K+\n\n200%",
-                "started": "23 hours ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n100%",
+                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -439,21 +445,15 @@
                 "related_topics": ""
             },
             {
+                "title": "carnival cruise line brawl",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "ken burns",
                 "search_volume": "10K+\n\n200%",
-                "started": "22 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "rand paul",
-                "search_volume": "10K+\n\n200%",
-                "started": "16 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "carey terrance",
-                "search_volume": "2K+\n\n800%",
-                "started": "50 minutes ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
