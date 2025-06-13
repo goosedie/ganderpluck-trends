@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-06-13 18:30:27",
+    "timestamp": "2025-06-13 19:00:27",
     "trends": {
         "IE": [
             {
@@ -16,7 +16,7 @@
             },
             {
                 "title": "tattle life",
-                "search_volume": "1K+\n\n1,000%",
+                "search_volume": "2K+\n\n1,000%",
                 "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -29,7 +29,13 @@
             {
                 "title": "paul murphy",
                 "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "citywest hotel protest",
+                "search_volume": "200+\n\n1,000%",
+                "started": "50 minutes ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -40,38 +46,32 @@
             },
             {
                 "title": "leinster v bulls",
-                "search_volume": "200+\n\n200%",
+                "search_volume": "200+\n\n300%",
                 "started": "5 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "australia vs south africa",
+                "search_volume": "500+\n\n300%",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "karen millen breastfeeding apology",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "22 hours ago\n\nLasted 21 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "citywest hotel protest",
-                "search_volume": "200+\n\n800%",
-                "started": "20 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "australia vs south africa",
-                "search_volume": "200+\n\n300%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "u.s. open golf leaderboard",
-                "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\n\nLasted 1 hr",
+                "started": "23 hours ago\n\nLasted 21 hr",
                 "related_topics": ""
             },
             {
                 "title": "alex padilla",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "21 hours ago\n\nLasted 11 hr",
+                "started": "22 hours ago\n\nLasted 11 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "u.s. open golf leaderboard",
+                "search_volume": "200+\n\n1,000%",
+                "started": "2 hours ago\n\nLasted 1 hr",
                 "related_topics": ""
             },
             {
@@ -81,33 +81,39 @@
                 "related_topics": ""
             },
             {
-                "title": "live leaderboard today",
-                "search_volume": "100+\n\n1,000%",
-                "started": "1 hour ago\n\nLasted 1 hr",
-                "related_topics": ""
-            },
-            {
                 "title": "tax defaulters list kerry",
                 "search_volume": "1K+\n\n800%",
                 "started": "23 hours ago\n\nLasted 11 hr",
                 "related_topics": ""
             },
             {
-                "title": "keith andrews",
+                "title": "live leaderboard today",
                 "search_volume": "100+\n\n1,000%",
-                "started": "1 hour ago\n\nLasted 50 min",
+                "started": "2 hours ago\n\nLasted 1 hr",
                 "related_topics": ""
             },
             {
                 "title": "cadaver dog",
                 "search_volume": "200+\n\n600%",
-                "started": "4 hours ago\n\nLasted 2 hr",
+                "started": "5 hours ago\n\nLasted 2 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "keith andrews",
+                "search_volume": "100+\n\n1,000%",
+                "started": "2 hours ago\n\nLasted 50 min",
                 "related_topics": ""
             },
             {
                 "title": "al jazeera",
                 "search_volume": "500+\n\n300%",
-                "started": "16 hours ago\n\nLasted 11 hr",
+                "started": "17 hours ago\n\nLasted 11 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "shake dog clonmel",
+                "search_volume": "1K+\n\n1,000%",
+                "started": "21 hours ago\n\nLasted 10 hr",
                 "related_topics": ""
             },
             {
@@ -117,15 +123,9 @@
                 "related_topics": ""
             },
             {
-                "title": "shake dog clonmel",
-                "search_volume": "1K+\n\n1,000%",
-                "started": "20 hours ago\n\nLasted 10 hr",
-                "related_topics": ""
-            },
-            {
                 "title": "news",
                 "search_volume": "1K+\n\n50%",
-                "started": "11 hours ago\n\nLasted 2 hr",
+                "started": "12 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
             },
             {
@@ -135,15 +135,9 @@
                 "related_topics": ""
             },
             {
-                "title": "pedro pascal",
-                "search_volume": "100+\n\n400%",
-                "started": "3 hours ago\n\nLasted 50 min",
-                "related_topics": ""
-            },
-            {
                 "title": "world cup of darts 2025",
                 "search_volume": "500+\n\n500%",
-                "started": "22 hours ago\n\nLasted 11 hr",
+                "started": "23 hours ago\n\nLasted 11 hr",
                 "related_topics": ""
             },
             {
@@ -151,19 +145,31 @@
                 "search_volume": "1K+\n\n1,000%",
                 "started": "22 hours ago\n\nLasted 2 hr",
                 "related_topics": ""
+            },
+            {
+                "title": "pedro pascal",
+                "search_volume": "100+\n\n400%",
+                "started": "3 hours ago\n\nLasted 50 min",
+                "related_topics": ""
             }
         ],
         "GB": [
             {
                 "title": "severe thunderstorm warning",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "israel",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "17 hours ago\ntrending_up\nActive",
+                "started": "18 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "shakira",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "12 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -174,8 +180,8 @@
             },
             {
                 "title": "emma raducanu",
-                "search_volume": "20K+\n\n900%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -185,27 +191,15 @@
                 "related_topics": ""
             },
             {
-                "title": "shakira",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "11 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "fiongal greenlaw",
-                "search_volume": "20K+\n\n600%",
+                "search_volume": "20K+\n\n700%",
                 "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "alex padilla",
-                "search_volume": "20K+\n\n800%",
-                "started": "22 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "great white sharks",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
+                "title": "aiden markram",
+                "search_volume": "10K+\n\n500%",
+                "started": "5 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -215,9 +209,15 @@
                 "related_topics": ""
             },
             {
-                "title": "temba bavuma",
-                "search_volume": "5K+\n\n600%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "title": "great white sharks",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "alex padilla",
+                "search_volume": "20K+\n\n800%",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -227,69 +227,39 @@
                 "related_topics": ""
             },
             {
-                "title": "al jazeera",
-                "search_volume": "10K+\n\n300%",
-                "started": "17 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "aiden markram",
-                "search_volume": "2K+\n\n500%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "catfish and the bottlemen",
-                "search_volume": "5K+\n\n200%",
-                "started": "22 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "robbie williams bath",
                 "search_volume": "2K+\n\n200%",
                 "started": "11 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
+                "title": "catfish and the bottlemen",
+                "search_volume": "5K+\n\n200%",
+                "started": "23 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "tattle life",
+                "search_volume": "2K+\n\n600%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "m62",
                 "search_volume": "10K+\n\n600%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "yung filly",
+                "search_volume": "5K+\n\n400%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "tom basden",
                 "search_volume": "5K+\n\n600%",
-                "started": "10 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "oil price",
-                "search_volume": "10K+\n\n400%",
-                "started": "16 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "yung filly",
-                "search_volume": "2K+\n\n400%",
-                "started": "9 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "tattle life",
-                "search_volume": "2K+\n\n800%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "tatjana maria",
-                "search_volume": "10K+\n\n1,000%",
-                "started": "4 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "jeff brazier",
-                "search_volume": "2K+\n\n1,000%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "11 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -299,9 +269,39 @@
                 "related_topics": ""
             },
             {
-                "title": "mark wright",
-                "search_volume": "5K+\n\n400%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "title": "tatjana maria",
+                "search_volume": "10K+\n\n1,000%",
+                "started": "4 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "oil price",
+                "search_volume": "10K+\n\n400%",
+                "started": "16 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "jamie varley",
+                "search_volume": "2K+\n\n400%",
+                "started": "6 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "jeff brazier",
+                "search_volume": "2K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "high court private schools",
+                "search_volume": "1K+\n\n800%",
+                "started": "1 hour ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "trooping the colour",
+                "search_volume": "2K+\n\n100%",
+                "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ],
@@ -309,13 +309,13 @@
             {
                 "title": "israel attacks iran",
                 "search_volume": "1M+\n\n1,000%",
-                "started": "17 hours ago\ntrending_up\nActive",
+                "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "alex padilla",
-                "search_volume": "1M+\n\n1,000%",
-                "started": "23 hours ago\ntrending_up\nActive",
+                "search_volume": "500K+\n\n1,000%",
+                "started": "24 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -331,6 +331,12 @@
                 "related_topics": ""
             },
             {
+                "title": "sanjay kapur",
+                "search_volume": "50K+\n\n400%",
+                "started": "23 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "eric dane",
                 "search_volume": "50K+\n\n1,000%",
                 "started": "20 hours ago\ntrending_up\nActive",
@@ -338,32 +344,32 @@
             },
             {
                 "title": "mel brooks spaceballs sequel",
-                "search_volume": "100K+\n\n800%",
+                "search_volume": "50K+\n\n800%",
                 "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "sanjay kapur",
-                "search_volume": "50K+\n\n400%",
-                "started": "23 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "google cloud outages",
-                "search_volume": "500K+\n\n700%",
+                "search_volume": "500K+\n\n600%",
                 "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "brevard county",
                 "search_volume": "20K+\n\n400%",
-                "started": "22 hours ago\ntrending_up\nActive",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "karen read",
-                "search_volume": "50K+\n\n200%",
+                "title": "karen read trial",
+                "search_volume": "50K+\n\n100%",
                 "started": "6 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "pirates vs cubs",
+                "search_volume": "20K+\n\n900%",
+                "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -380,20 +386,20 @@
             },
             {
                 "title": "michael rapaport",
-                "search_volume": "10K+\n\n800%",
+                "search_volume": "10K+\n\n600%",
                 "started": "2 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "patrick reed",
-                "search_volume": "50K+\n\n300%",
-                "started": "22 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "us open cut line",
                 "search_volume": "20K+\n\n100%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "patrick reed",
+                "search_volume": "50K+\n\n300%",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -403,8 +409,20 @@
                 "related_topics": ""
             },
             {
+                "title": "james nicholas",
+                "search_volume": "10K+\n\n200%",
+                "started": "23 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "oil price",
+                "search_volume": "50K+\n\n100%",
+                "started": "17 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "survivor of india plane crash",
-                "search_volume": "20K+\n\n200%",
+                "search_volume": "20K+\n\n100%",
                 "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
@@ -415,45 +433,27 @@
                 "related_topics": ""
             },
             {
-                "title": "friday the 13th movie",
-                "search_volume": "5K+\n\n200%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "rod",
-                "search_volume": "5K+\n\n400%",
+                "search_volume": "5K+\n\n300%",
                 "started": "10 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "james nicholas",
-                "search_volume": "10K+\n\n200%",
-                "started": "22 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "oil price",
-                "search_volume": "50K+\n\n100%",
-                "started": "17 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "fox news live",
-                "search_volume": "20K+\n\n200%",
-                "started": "17 hours ago\ntrending_up\nActive",
+                "title": "friday the 13th movie",
+                "search_volume": "5K+\n\n200%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "carlo acutis",
                 "search_volume": "5K+\n\n200%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "anker power bank recall",
-                "search_volume": "20K+\n\n200%",
-                "started": "21 hours ago\ntrending_up\nActive",
+                "title": "fox news live",
+                "search_volume": "10K+\n\n200%",
+                "started": "17 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
         ]
