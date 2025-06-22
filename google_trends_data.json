@@ -1,17 +1,17 @@
 {
-    "timestamp": "2025-06-22 08:30:27",
+    "timestamp": "2025-06-22 09:00:29",
     "trends": {
         "IE": [
             {
                 "title": "iran",
-                "search_volume": "10K+\n\n700%",
+                "search_volume": "20K+\n\n900%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "dublin v cork",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "20 hours ago\ntrending_up\nActive",
+                "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -21,51 +21,39 @@
                 "related_topics": ""
             },
             {
-                "title": "trump",
-                "search_volume": "2K+\n\n700%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "title": "limerick vs dublin",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "23 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "news",
-                "search_volume": "1K+\n\n100%",
+                "search_volume": "2K+\n\n100%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "jon jones",
-                "search_volume": "1K+\n\n900%",
+                "search_volume": "1K+\n\n800%",
                 "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "b2 bomber",
                 "search_volume": "1K+\n\n300%",
-                "started": "12 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "limerick vs dublin",
-                "search_volume": "50K+\n\n1,000%",
-                "started": "22 hours ago\n\nLasted 19 hr",
+                "started": "13 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "brazil hot air balloon accident",
                 "search_volume": "200+\n\n1,000%",
-                "started": "1 hour ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "fox news",
-                "search_volume": "200+\n\n200%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "fordow",
                 "search_volume": "200+\n\n400%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -75,9 +63,27 @@
                 "related_topics": ""
             },
             {
+                "title": "fox news",
+                "search_volume": "500+\n\n200%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "breaking news",
+                "search_volume": "500+\n\n75%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "callum walsh",
+                "search_volume": "200+\n\n500%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "ww3",
-                "search_volume": "200+\n\n400%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "search_volume": "200+\n\n300%",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -87,21 +93,15 @@
                 "related_topics": ""
             },
             {
-                "title": "breaking news",
-                "search_volume": "500+\n\n75%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "title": "news headlines",
+                "search_volume": "200+\n\n100%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "tipperary vs galway",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "17 hours ago\n\nLasted 16 hr",
-                "related_topics": ""
-            },
-            {
-                "title": "callum walsh",
-                "search_volume": "100+\n\n400%",
-                "started": "2 hours ago\ntrending_up\nActive",
+                "started": "18 hours ago\n\nLasted 16 hr",
                 "related_topics": ""
             },
             {
@@ -111,33 +111,33 @@
                 "related_topics": ""
             },
             {
-                "title": "weather galway",
-                "search_volume": "100+\n\n100%",
-                "started": "30 minutes ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "news headlines",
-                "search_volume": "100+\n\n100%",
-                "started": "3 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "danny boyle jimmy savile",
                 "search_volume": "5K+\n\n1,000%",
-                "started": "12 hours ago\n\nLasted 11 hr",
+                "started": "13 hours ago\n\nLasted 11 hr",
                 "related_topics": ""
             },
             {
                 "title": "new york times",
                 "search_volume": "100+\n\n200%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "tommy fleetwood",
                 "search_volume": "500+\n\n600%",
-                "started": "11 hours ago\n\nLasted 11 hr",
+                "started": "12 hours ago\n\nLasted 12 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "weather galway",
+                "search_volume": "100+\n\n100%",
+                "started": "1 hour ago\n\nLasted 1 hr",
+                "related_topics": ""
+            },
+            {
+                "title": "real oviedo",
+                "search_volume": "100+\n\n400%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -149,21 +149,27 @@
             {
                 "title": "isle of wight festival",
                 "search_volume": "500+\n\n600%",
-                "started": "12 hours ago\n\nLasted 5 hr",
+                "started": "13 hours ago\n\nLasted 5 hr",
                 "related_topics": ""
             }
         ],
         "GB": [
             {
                 "title": "iran",
-                "search_volume": "200K+\n\n600%",
+                "search_volume": "200K+\n\n800%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "bbc news",
                 "search_volume": "100K+\n\n100%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "jon jones",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -173,15 +179,9 @@
                 "related_topics": ""
             },
             {
-                "title": "jon jones",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
                 "title": "guam",
                 "search_volume": "20K+\n\n1,000%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -197,15 +197,21 @@
                 "related_topics": ""
             },
             {
+                "title": "brazilian hot air balloon crash",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "2 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
                 "title": "jack betts",
                 "search_volume": "10K+\n\n800%",
                 "started": "21 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "hot air balloon crash",
-                "search_volume": "10K+\n\n700%",
-                "started": "16 hours ago\ntrending_up\nActive",
+                "title": "london train evacuation",
+                "search_volume": "5K+\n\n1,000%",
+                "started": "3 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -216,26 +222,14 @@
             },
             {
                 "title": "ollie pope",
-                "search_volume": "50K+\n\n700%",
-                "started": "17 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "london train evacuation",
-                "search_volume": "5K+\n\n1,000%",
-                "started": "3 hours ago\ntrending_up\nActive",
+                "search_volume": "50K+\n\n800%",
+                "started": "18 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "america",
                 "search_volume": "2K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "khalil rountree",
-                "search_volume": "10K+\n\n500%",
-                "started": "15 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -245,21 +239,39 @@
                 "related_topics": ""
             },
             {
-                "title": "paradise egg grow a garden",
-                "search_volume": "5K+\n\n800%",
-                "started": "14 hours ago\ntrending_up\nActive",
+                "title": "khalil rountree",
+                "search_volume": "10K+\n\n400%",
+                "started": "15 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "ww3",
-                "search_volume": "5K+\n\n800%",
+                "search_volume": "5K+\n\n700%",
                 "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "paradise egg grow a garden",
+                "search_volume": "5K+\n\n900%",
+                "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "real oviedo",
                 "search_volume": "5K+\n\n600%",
-                "started": "11 hours ago\ntrending_up\nActive",
+                "started": "12 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bunker buster bomb",
+                "search_volume": "2K+\n\n500%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "who are iran's allies",
+                "search_volume": "5K+\n\n600%",
+                "started": "2 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -269,33 +281,9 @@
                 "related_topics": ""
             },
             {
-                "title": "iran allies",
-                "search_volume": "2K+\n\n200%",
-                "started": "6 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "national lottery results",
-                "search_volume": "20K+\n\n100%",
-                "started": "5 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "fluminense vs ulsan",
+                "title": "breaking news",
                 "search_volume": "2K+\n\n500%",
-                "started": "10 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "galal yafai",
-                "search_volume": "2K+\n\n400%",
-                "started": "11 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "russia",
-                "search_volume": "2K+\n\n400%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -303,25 +291,37 @@
                 "search_volume": "2K+\n\n800%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
+            },
+            {
+                "title": "national lottery results",
+                "search_volume": "20K+\n\n100%",
+                "started": "6 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "entourage",
+                "search_volume": "1K+\n\n500%",
+                "started": "8 hours ago\ntrending_up\nActive",
+                "related_topics": ""
             }
         ],
         "US": [
             {
                 "title": "us bombs iran",
                 "search_volume": "5M+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "guam",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "jon jones",
                 "search_volume": "200K+\n\n1,000%",
-                "started": "8 hours ago\ntrending_up\nActive",
+                "started": "9 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -331,21 +331,15 @@
                 "related_topics": ""
             },
             {
-                "title": "fordow",
+                "title": "iran allies",
                 "search_volume": "100K+\n\n1,000%",
-                "started": "9 hours ago\ntrending_up\nActive",
+                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "sleeper cells",
                 "search_volume": "50K+\n\n1,000%",
-                "started": "13 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "inter vs urawa reds",
-                "search_volume": "200K+\n\n1,000%",
-                "started": "13 hours ago\ntrending_up\nActive",
+                "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -357,19 +351,37 @@
             {
                 "title": "hot air balloon crash brazil",
                 "search_volume": "50K+\n\n900%",
-                "started": "13 hours ago\ntrending_up\nActive",
+                "started": "14 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "who are iran's allies",
-                "search_volume": "100K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "title": "inter vs urawa reds",
+                "search_volume": "200K+\n\n1,000%",
+                "started": "14 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "gbu 57",
+                "search_volume": "50K+\n\n1,000%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "jack betts",
                 "search_volume": "20K+\n\n400%",
-                "started": "19 hours ago\ntrending_up\nActive",
+                "started": "20 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "russia",
+                "search_volume": "20K+\n\n800%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "lynn hamilton",
+                "search_volume": "20K+\n\n900%",
+                "started": "12 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -379,27 +391,15 @@
                 "related_topics": ""
             },
             {
-                "title": "lynn hamilton",
-                "search_volume": "20K+\n\n800%",
-                "started": "12 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "russia",
-                "search_volume": "20K+\n\n700%",
-                "started": "7 hours ago\ntrending_up\nActive",
+                "title": "us news",
+                "search_volume": "20K+\n\n1,000%",
+                "started": "8 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "mercury vs sky",
                 "search_volume": "20K+\n\n1,000%",
                 "started": "15 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "us news",
-                "search_volume": "20K+\n\n1,000%",
-                "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -411,25 +411,7 @@
             {
                 "title": "lsu vs coastal",
                 "search_volume": "200K+\n\n500%",
-                "started": "15 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "bbc",
-                "search_volume": "50K+\n\n400%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "msnbc",
-                "search_volume": "50K+\n\n700%",
-                "started": "7 hours ago\ntrending_up\nActive",
-                "related_topics": ""
-            },
-            {
-                "title": "yemen",
-                "search_volume": "20K+\n\n900%",
-                "started": "6 hours ago\ntrending_up\nActive",
+                "started": "16 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
@@ -439,20 +421,38 @@
                 "related_topics": ""
             },
             {
-                "title": "russia iran",
-                "search_volume": "20K+\n\n500%",
+                "title": "msnbc",
+                "search_volume": "50K+\n\n800%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
-                "title": "nato",
-                "search_volume": "10K+\n\n600%",
+                "title": "yemen",
+                "search_volume": "20K+\n\n800%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "bbc",
+                "search_volume": "50K+\n\n400%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "russia iran",
+                "search_volume": "20K+\n\n400%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             },
             {
                 "title": "china",
                 "search_volume": "20K+\n\n600%",
+                "started": "7 hours ago\ntrending_up\nActive",
+                "related_topics": ""
+            },
+            {
+                "title": "putin",
+                "search_volume": "20K+\n\n800%",
                 "started": "7 hours ago\ntrending_up\nActive",
                 "related_topics": ""
             }
